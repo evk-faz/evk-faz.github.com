@@ -76,7 +76,7 @@
   <div class="container">
     <div class="row">
   <div class="span3 hidden-phone">
-  	<ul id="sidebar" class="nav nav-tabs nav-stacked" data-spy="affix" data-offset-top="150">
+  	<ul id="sidebar" class="nav nav-tabs nav-stacked sidebar" data-spy="affix" data-offset-top="150">
   	  <li><a href="#unsere-Ziele">Unsere Ziele</a></li>
   	  <li><a href="#Vorstand">Vorstand</a></li>
   	  <li><a href="#Mitgliedschaft">Mitgliedschaft</a></li>
@@ -212,23 +212,15 @@
               <label class="checkbox">
                 <input type="checkbox">Ich interessiere mich für ein spezielles Angebot
               </label>
-              <label>
-              <input type="text" placeholder="Name">
-              <label>
-              <input type="text" placeholder="Vorname">
-              <label>
-              <input type="text" placeholder="Adresse">
-              <label>
-              <input type="text" placeholder="PLZ">
-              <label>
-              <input type="text" placeholder="Ort">
-              <label>
-              <input type="text" placeholder="Telefon">
-              <label>
-              <input type="text" placeholder="Email">
+              <input class="input-block-level" type="text" placeholder="Name">
+              <input class="input-block-level" type="text" placeholder="Vorname">
+              <input class="input-block-level" type="text" placeholder="Adresse">
+              <input class="input-block-level" type="text" placeholder="PLZ">
+              <input class="input-block-level" type="text" placeholder="Ort">
+              <input class="input-block-level" type="text" placeholder="Telefon">
+              <input class="input-block-level" type="text" placeholder="Email">
               <label>Bemerkungen</label>
-              <textarea rows="5">
-              </textarea><br>
+              <textarea class="input-block-level" rows="5"></textarea>
               <button type="submit" class="btn">Submit</button>
             </fieldset>
            </form>
@@ -244,23 +236,15 @@
           <form>
             <fieldset>
               <legend>Anmeldung</legend>
-              <label>
-              <input type="text" placeholder="Name">
-              <label>
-              <input type="text" placeholder="Vorname">
-              <label>
-              <input type="text" placeholder="Adresse">
-              <label>
-              <input type="text" placeholder="PLZ">
-              <label>
-              <input type="text" placeholder="Ort">
-              <label>
-              <input type="text" placeholder="Telefon">
-              <label>
-              <input type="text" placeholder="Email">
+              <input class="input-block-level" type="text" placeholder="Name">
+              <input class="input-block-level" type="text" placeholder="Vorname">
+              <input class="input-block-level" type="text" placeholder="Adresse">
+              <input class="input-block-level" type="text" placeholder="PLZ">
+              <input class="input-block-level" type="text" placeholder="Ort">
+              <input class="input-block-level" type="text" placeholder="Telefon">
+              <input class="input-block-level" type="text" placeholder="Email">
               <label>Bemerkungen</label>
-              <textarea rows="5">
-              </textarea><br>
+              <textarea class="input-block-level" rows="5"></textarea><br>
               <button type="submit" class="btn">Submit</button>
             </fieldset>
 
@@ -330,13 +314,76 @@
       <h2>Gönner</h2>
       <div class="row">
         <div class="span9">
+                    <table class="table">
+            <thead>
+              <tr>
+                <th></th>
+                <th></th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td><strong>Aebi-Meile Myrtha</strong><br>Küttigen</td>
+                <td></td>
+              </tr>
+              <tr>
+                <td><strong>Affentranger Bernadette</strong><br>Küttigen</td>
+                <td></td>
+              </tr>
+              <tr>
+                <td><strong>Bircher Hans-Rudolf</strong><br>Küttigen</td>
+                <td></td>
+              </tr>
+              <tr>
+                <td><strong>Bolliger-Plüss Fritz und Martha</strong><br>Küttigen</td>
+                <td></td>
+              </tr>
+              <tr>
+                <td><strong>Blattner Metalbau</strong><br>Gretzenbach</td>
+                <td><img src="/img/goenner/BlattnerMetallbau.png" /></td>
+              </tr>
+              <tr>
+                <td><strong>Debrunner Ruth</strong><br>Küttigen</td>
+                <td></td>
+              </tr>
+              <tr>
+                <td><strong>Finocchiaro Parkettdesign</strong><br>Aarau</td>
+                <td><a href="http://www.finocchiaro.ch/"><img src="/img/goenner/finocchiaro_logo.png" /></a></td>
+              </tr>
+              <tr>
+                <td><strong>Gerber Roland</strong><br>Rombach</td>
+                <td></td>
+              </tr>
+              <tr>
+                <td><strong>Holzbau Gebrüder Wehrli</strong><br>Küttigen</td>
+                <td><a href="http://www.holzbau-wehrli.ch/"><img src="/img/goenner/Holzbau-logo.jpg" /></a></td>
+              </tr>
+              <tr>
+                <td><strong>Huber Doris</strong><br>Küttigen</td>
+                <td></td>
+              </tr>
+              <tr>
+                <td><strong>Merz AG</strong><br>Küttigen</td>
+                <td><a href="http://www.merz-ag.ch/"><img src="/img/goenner/logo_merz_ag.png" /></a></td>
+              </tr>
+              <tr>
+                <td><strong>A. Müller AG CNC Center</strong><br>Gränichen</td>
+                <td><img src="/img/goenner/cnc_center.jpg" /></td>
+              </tr>
+              <tr>
+                <td><strong>Rütimann Petra</strong><br>Rombach</td>
+                <td><img src="/img/goenner/logo_petra_ruetimann.jpg" /></td>
+              </tr>
+            </tbody>
+          </table>
         </div>
       </div>
       <a href="#top"> zum Anfang</a>
       <hr>      
   	</section>
   </div>
-</div><!--page content to be placed -->
+</div>
+<!--page content to be placed -->
   </div>
 
 <!-- footer -->
@@ -386,6 +433,7 @@
     <!-- load javascripts -->
     <script src="http://code.jquery.com/jquery-latest.js"></script>    
     <script src="/javascripts/bootstrap.min.js" type="text/javascript"></script>
+    <script src="/javascripts/smoothscroll.js" type="text/javascript"></script>
       <script type="text/javascript">                                         
         $(document).ready(function() {
         //$('#page').scrollspy();

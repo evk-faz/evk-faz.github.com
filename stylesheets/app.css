@@ -188,7 +188,7 @@ color:#F0F0ED;
 
 .affix {
   top: 20px;
-  width: 21%%;
+ 
 }
 
 .nav-stacked li a {
@@ -198,6 +198,10 @@ color:#F0F0ED;
 .nav-tabs > .active > a, .nav-tabs > .active > a:hover {
   background-color: #cccccc;
  } 
+
+.sidebar {
+  width: 228px;
+}
 
 
 /* -----------------------------------------
@@ -211,6 +215,12 @@ color:#F0F0ED;
    media queries
 ----------------------------------------- */
 
+@media screen and (min-width: 1200px) {
+.sidebar {
+  width: 258px;
+}
+}
+
 @media screen and (max-width: 979px) {
 
   #navigation-left li {
@@ -221,6 +231,14 @@ color:#F0F0ED;
     font-size:1.2em; 
   }
   
+
+}
+
+@media (max-width: 979px) and (min-width: 768px) {
+
+.sidebar {
+  width: 166px;
+}
 
 }
 
