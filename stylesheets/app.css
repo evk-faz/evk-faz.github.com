@@ -1,0 +1,247 @@
+/* Foundation v2.1.5 http://foundation.zurb.com */
+/* Artfully masterminded by ZURB  */
+
+/* -------------------------------------------------- 
+   Table of Contents
+-----------------------------------------------------
+:: Shared Styles
+:: Page Name 1
+:: Page Name 2
+*/
+
+
+/* -----------------------------------------
+   Shared Styles
+----------------------------------------- */
+
+body {
+  font-family: 'Droid Sans', sans-serif;
+  font-size: 15px;
+  background-color: #F0F0ED;
+}
+
+body p {
+  font-size: 1.1em;
+}
+
+hr {
+border: solid #DDD;
+border-width: 1px 0 0;
+clear: both;
+margin: 12px 0 30px;
+height: 0;
+}
+
+i {
+	margin-right: 5px;
+}
+
+a {
+	color: #cc7206;
+}
+
+a:hover {
+	color: #cc7206;
+}
+.spacer20 {
+	margin-left: 20px;
+}
+
+.float-left {
+    float: left;
+}
+
+.float-right {
+    float: right;
+}
+
+.gaga {
+padding-top: 20px;
+
+}
+
+#header {
+  height: 130px;
+  background:#333333;
+  color:#F0F0ED;
+  padding-top:20px;
+}
+
+#footer {
+  height: auto;
+  background:#333333;
+  color:#F0F0ED;  
+  margin-top:40px;
+}
+#footer a {
+  color: #ffd700;
+  text-decoration: none;
+  letter-spacing: 1px;
+}
+#footer a:hover {
+  color: #ffd700;
+  /*color: #f0f0ed;*/
+  text-decoration: none;
+  font-weight:bold;
+  letter-spacing: 1px; 
+}
+#footer p {
+  color: #F0F0ED;
+}
+#footer h4 {
+  color: #F0F0ED;
+}
+
+
+
+#navigation-left li {
+  float: left;
+  margin: 0 5px;
+font-size:1.4em; 
+}
+
+#navigation-left li a {
+text-decoration:none;
+color:#F0F0ED;
+}
+#navigation-left li a:hover {
+text-decoration:underline;
+color:#F0F0ED;  
+}
+
+#navigation-right {
+ position: relative;
+}
+
+
+#navigation-right ul {
+  position: absolute;
+  right: 0;
+}
+
+#navigation-right li {
+  float: left;
+  margin: 0 5px;
+  font-size:1.4em; 
+  text-align: right;
+}
+
+#navigation-right li a {
+text-decoration:none;
+color:#F0F0ED;
+}
+#navigation-right li a:hover {
+text-decoration:underline;
+color:#F0F0ED;  
+}
+
+#mobile-nav {
+  width: 95%;
+}
+
+
+/* -----------------------------------------
+   Social Media Bar
+----------------------------------------- */
+
+.socialMedia {
+  background: url("../img/pixel_grey.png") repeat-x scroll 0 50% transparent;
+  height: 54px;
+}
+
+.socalMediaButton {
+    background: none repeat scroll 0 0 #F0F0ED;
+    margin: 16px auto 0;
+    overflow: hidden;
+    padding: 0 16px;
+    width: 68px;
+}
+
+.socalMediaButton .float-left a {
+    background-position: left top;
+}
+
+.socalMediaButton .float-left a:hover {
+    background-position: left bottom;
+}
+
+.socalMediaButton .float-right a {
+    background-position: right top;
+}
+
+.socalMediaButton .float-right a:hover {
+    background-position: right bottom;
+}
+
+.socalMediaButton a {
+    background: url("../img/twitter_facebook.png") no-repeat scroll 0 0 transparent;
+    display: block;
+    height: 26px;
+    text-indent: -9999px;
+    width: 27px;
+}
+
+
+/* -----------------------------------------
+   side menu bar
+----------------------------------------- */
+
+.affix {
+  top: 20px;
+  width: 21%%;
+}
+
+.nav-stacked li a {
+  color: #333;
+}
+
+.nav-tabs > .active > a, .nav-tabs > .active > a:hover {
+  background-color: #cccccc;
+ } 
+
+
+/* -----------------------------------------
+   table background override for odd lines
+----------------------------------------- */
+
+.table-striped tbody > tr:nth-child(odd) > td, .table-striped tbody > tr:nth-child(odd) > th {
+    background-color: #cccccc;
+}
+/* -----------------------------------------
+   media queries
+----------------------------------------- */
+
+@media screen and (max-width: 979px) {
+
+  #navigation-left li {
+    font-size:1.2em; 
+  }
+
+  #navigation-right li {
+    font-size:1.2em; 
+  }
+  
+
+}
+
+   
+@media screen and (max-width: 767px) {
+
+  body {
+    padding-right: 0px;
+    padding-left: 0px;
+  }
+
+  .container {
+    padding-right: 20px;
+    padding-left: 20px;    
+  }
+
+}
+
+
+/* -----------------------------------------
+   Page Name 2
+----------------------------------------- */
+
+
