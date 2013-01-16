@@ -33,22 +33,22 @@
         <div id="navigation-right" class="span5 hidden-phone">
           <ul class="unstyled">
             <li><a href="/verein/">Verein</a> |</li>             
-            <li><a href="#">Faz</a> |</li>              
+            <li><a href="/familienzentrum/">Faz</a> |</li>              
             <li><a href="#">Bilder</a></li>             
           </ul>
         </div>
         <div class="span12 visible-phone">
           <select id="mobile-nav">
-            <option value="">Click to navigate...</option>
+            <option value="/">Click to navigate...</option>
             <option value="/">Home</option>
-            <option value="#">News</option>
+            <option value="/news">News</option>
             <option value="ag.html">Arbeitsgruppen</option>
             <option value="adventsfenster.html">--Adventsfenster</option>
             <option value="babysitterboerse.html">--Babysitterbörse</option>
             <option value="chinderkafi.html">--Chinderkafi</option>
             <option value="Kinderfasnacht.html">--Kinderfasnacht</option>
-            <option value="#">Verein</option>
-            <option value="#">Familienzentrum</option>
+            <option value="/verein">Verein</option> 
+            <option value="/familienzentrum">Familienzentrum</option>
             <option value="#">Bilder</option>
           </select>
         </div>
@@ -102,7 +102,7 @@
     <h2>... und so wollen wir sie erreichen</h2>
 	  <p>Der Vorstand koordiniert Arbeitsgruppen von Elternvereinsmitgliedern, welche Ideen um-setzen, Anliegen prüfen und Projekte erarbeiten.</p>
 	  <p>Zwei Mal jährlich halten wir unsere Mitglieder mit einem Informationsblatt auf dem Laufenden Sporadisch treffen wir uns zum gemütlichen Beisammensein </p>
-    <a href="#top"> zum Anfang</a>
+    <i class=" icon-arrow-up"></i><a href="#top"> zum Anfang</a>
 	  <hr>
   	</section>
   	<section id="Vorstand">
@@ -193,14 +193,14 @@
   			</div>
   		</div>
       <br>
-      <a href="#top"> zum Anfang</a>
+      <i class=" icon-arrow-up"></i><a href="#top"> zum Anfang</a>
       <hr>
   	</section>
   	<section id="Mitgliedschaft">
       <h2>Mitgliedschaft</h2>
       <div class="row">
         <div class="span9">
-          <form>
+          <form id="frmAnmeldung">
             <fieldset>
               <legend>Anmeldung</legend>
               <label class="checkbox">
@@ -212,45 +212,45 @@
               <label class="checkbox">
                 <input type="checkbox">Ich interessiere mich für ein spezielles Angebot
               </label>
-              <input class="input-block-level" type="text" placeholder="Name">
-              <input class="input-block-level" type="text" placeholder="Vorname">
-              <input class="input-block-level" type="text" placeholder="Adresse">
-              <input class="input-block-level" type="text" placeholder="PLZ">
-              <input class="input-block-level" type="text" placeholder="Ort">
-              <input class="input-block-level" type="text" placeholder="Telefon">
-              <input class="input-block-level" type="text" placeholder="Email">
+              <input id="Nachname" name="Nachname" class="input-block-level" type="text" placeholder="Name">
+              <input id="Vorname" name="Vorname" class="input-block-level" type="text" placeholder="Vorname">
+              <input id="Adresse" name="Adresse" class="input-block-level" type="text" placeholder="Adresse">
+              <input id="PLZ" name="PLZ" class="input-block-level" type="text" placeholder="PLZ">
+              <input id="Ort" name="Ort" class="input-block-level" type="text" placeholder="Ort">
+              <input id="Telefon"  name="Telefon" class="input-block-level" type="text" placeholder="Telefon">
+              <input id="Email" name="Email" class="input-block-level" type="text" placeholder="Email">
               <label>Bemerkungen</label>
-              <textarea class="input-block-level" rows="5"></textarea>
+              <textarea id="Bemerkungen" id="Bemerkungen" class="input-block-level" rows="5"></textarea>
               <button type="submit" class="btn">Submit</button>
             </fieldset>
            </form>
         </div>
       </div>
-      <a href="#top"> zum Anfang</a>
+      <i class=" icon-arrow-up"></i><a href="#top"> zum Anfang</a>
       <hr>      
   	</section>
   	<section id="Kontakt">
       <h2>Kontakt</h2>
       <div class="row">
         <div class="span9">
-          <form>
+          <form id="frmKontakt">
             <fieldset>
               <legend>Anmeldung</legend>
-              <input class="input-block-level" type="text" placeholder="Name">
-              <input class="input-block-level" type="text" placeholder="Vorname">
-              <input class="input-block-level" type="text" placeholder="Adresse">
-              <input class="input-block-level" type="text" placeholder="PLZ">
-              <input class="input-block-level" type="text" placeholder="Ort">
-              <input class="input-block-level" type="text" placeholder="Telefon">
-              <input class="input-block-level" type="text" placeholder="Email">
+              <input id="Nachname" name="Nachname" class="input-block-level" type="text" placeholder="Name">
+              <input id="Vorname" name="Vorname" class="input-block-level" type="text" placeholder="Vorname">
+              <input id="Adresse" name="Adresse" class="input-block-level" type="text" placeholder="Adresse">
+              <input id="PLZ" name="PLZ" class="input-block-level" type="text" placeholder="PLZ">
+              <input id="Ort" name="Ort" class="input-block-level" type="text" placeholder="Ort">
+              <input id="Telefon" name="Telefon" class="input-block-level" type="text" placeholder="Telefon">
+              <input id="Email" name="Email" class="input-block-level" type="text" placeholder="Email">
               <label>Bemerkungen</label>
-              <textarea class="input-block-level" rows="5"></textarea><br>
+              <textarea id="Bemerkungen" name="Bemerkungen" class="input-block-level" rows="5"></textarea><br>
               <button type="submit" class="btn">Submit</button>
             </fieldset>
-
+		</form>
         </div>
       </div>
-      <a href="#top"> zum Anfang</a>
+      <i class=" icon-arrow-up"></i><a href="#top"> zum Anfang</a>
       <hr>      
   	</section>
   	<section id="Jahresprogramm">
@@ -266,34 +266,38 @@
             </thead>
             <tbody>
               <tr>
-                <td>28.01.2012 - 12.02.2012</td>
-                <td>Sportferien</td>
+                <td>11.02.2013</td>
+                <td>Probebeginn im Spittelsaal - Musical "Der König in der Kiste"</td>
               </tr>
               <tr>
-                <td>25.02.2012</td>
+                <td>16.02.2012</td>
                 <td>Kinderfasnacht</td>
               </tr>
               <tr>
-                <td>22.03.2012 - 24.03.2012</td>
-                <td>MFM Kurs</td>
+                <td>02.03.2013</td>
+                <td>Jubiläumsanlass 10 Jahre MusikErlebnis 10-14 Uhr</td>
               </tr>
               <tr>
-                <td>24.03.2012</td>
-                <td>Elternplausch</td>
+                <td>31.05.2013</td>
+                <td>Generalversammlung</td>
               </tr>
               <tr>
-                <td>27.03.2012 - 29.03.2012</td>
-                <td>Kinderkleiderbörse</td>
+                <td>03.06.2013</td>
+                <td>Musical "Der König in der Kiste" 19:00 im Spittelsaal</td>
               </tr>
               <tr>
-                <td>31.03.2012</td>
-                <td>Waldsamstag Waldspielgruppe Roti Zipfelmütze</td>
+                <td>28.06.2013 - 29.06.2013</td>
+                <td>Küttiger Jugendfest</td>
+              </tr>
+              <tr>
+                <td>04.11.2013</td>
+                <td>Sitzung Arbeitsgruppen-LeiterInnen</td>
               </tr>
             </tbody>
           </table>
         </div>
       </div>
-      <a href="#top"> zum Anfang</a>
+      <i class=" icon-arrow-up"></i><a href="#top"> zum Anfang</a>
       <hr>      
   	</section>
   	<section id="Statuten">
@@ -306,7 +310,7 @@
           </p>
         </div>
       </div>
-      <a href="#top"> zum Anfang</a>
+      <i class=" icon-arrow-up"></i><a href="#top"> zum Anfang</a>
       <hr>      
 
   	</section>
@@ -378,7 +382,7 @@
           </table>
         </div>
       </div>
-      <a href="#top"> zum Anfang</a>
+      <i class=" icon-arrow-up"></i><a href="#top"> zum Anfang</a>
       <hr>      
   	</section>
   </div>
@@ -431,9 +435,11 @@
 
 
     <!-- load javascripts -->
-    <script src="http://code.jquery.com/jquery-latest.js"></script>    
+    <script src="http://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.8.3.min.js"></script>
+    <script src="http://ajax.aspnetcdn.com/ajax/jquery.validate/1.10.0/jquery.validate.min.js"></script>
     <script src="/javascripts/bootstrap.min.js" type="text/javascript"></script>
     <script src="/javascripts/smoothscroll.js" type="text/javascript"></script>
+	<script src="/javascripts/app.js" type="text/javascript"></script>
       <script type="text/javascript">                                         
         $(document).ready(function() {
         //$('#page').scrollspy();

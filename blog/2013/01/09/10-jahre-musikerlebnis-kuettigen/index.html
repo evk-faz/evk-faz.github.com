@@ -33,22 +33,22 @@
         <div id="navigation-right" class="span5 hidden-phone">
           <ul class="unstyled">
             <li><a href="/verein/">Verein</a> |</li>             
-            <li><a href="#">Faz</a> |</li>              
+            <li><a href="/familienzentrum/">Faz</a> |</li>              
             <li><a href="#">Bilder</a></li>             
           </ul>
         </div>
         <div class="span12 visible-phone">
           <select id="mobile-nav">
-            <option value="">Click to navigate...</option>
+            <option value="/">Click to navigate...</option>
             <option value="/">Home</option>
-            <option value="#">News</option>
+            <option value="/news">News</option>
             <option value="ag.html">Arbeitsgruppen</option>
             <option value="adventsfenster.html">--Adventsfenster</option>
             <option value="babysitterboerse.html">--Babysitterbörse</option>
             <option value="chinderkafi.html">--Chinderkafi</option>
             <option value="Kinderfasnacht.html">--Kinderfasnacht</option>
-            <option value="#">Verein</option>
-            <option value="#">Familienzentrum</option>
+            <option value="/verein">Verein</option> 
+            <option value="/familienzentrum">Familienzentrum</option>
             <option value="#">Bilder</option>
           </select>
         </div>
@@ -170,9 +170,11 @@
 
 
     <!-- load javascripts -->
-    <script src="http://code.jquery.com/jquery-latest.js"></script>    
+    <script src="http://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.8.3.min.js"></script>
+    <script src="http://ajax.aspnetcdn.com/ajax/jquery.validate/1.10.0/jquery.validate.min.js"></script>
     <script src="/javascripts/bootstrap.min.js" type="text/javascript"></script>
     <script src="/javascripts/smoothscroll.js" type="text/javascript"></script>
+	<script src="/javascripts/app.js" type="text/javascript"></script>
       <script type="text/javascript">                                         
         $(document).ready(function() {
         //$('#page').scrollspy();
