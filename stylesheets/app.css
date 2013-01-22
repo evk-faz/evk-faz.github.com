@@ -32,6 +32,11 @@ margin: 12px 0 30px;
 height: 0;
 }
 
+.dotted {
+	border: dashed #DDD;
+	border-width: 1px 0 0;
+}
+
 i {
 	margin-right: 5px;
 }
@@ -43,6 +48,11 @@ a {
 a:hover {
 	color: #cc7206;
 }
+
+li strong {
+	margin-right: 8px;
+}
+
 .spacer20 {
 	margin-left: 20px;
 }
@@ -65,6 +75,11 @@ padding-top: 20px;
   background:#333333;
   color:#F0F0ED;
   padding-top:20px;
+}
+
+#header img {
+	max-width: 100%;
+	height: auto;
 }
 
 #footer {
@@ -303,7 +318,17 @@ Google maps area styling
     padding-right: 20px;
     padding-left: 20px;    
   }
+  
+  #header {
+    height: 150px;
+  }
+  
+  #header img {
+	max-width: 100%;
+	height: auto;
+  }
 
+  
 }
 
 
