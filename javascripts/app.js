@@ -131,4 +131,9 @@ $(document).ready(function () {
 	});
     //END Mobile Navigation
 
+  $(function() {
+    $('.footable').footable();
+  });
+
+
 });
