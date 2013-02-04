@@ -5,10 +5,26 @@
   <id>http://blog.url.com/</id>
   <link href="http://blog.url.com/"/>
   <link href="http://blog.url.com/feed.xml" rel="self"/>
-  <updated>2013-01-29T19:53:00Z</updated>
+  <updated>2013-02-04T20:12:00Z</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>Boerse-03-2013</title>
+    <link rel="alternate" href="/blog/2013/02/04/boerse-03-2013/"/>
+    <id>/blog/2013/02/04/boerse-03-2013/</id>
+    <published>2013-02-04T20:12:00Z</published>
+    <updated>2013-02-04T20:12:00Z</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;Die nächste Kinderkleider und Spielzeugbörse findet am 23. März 2013 von 10.00 bis 14.00 in der Turnhalle Dorf in Küttigen statt.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href='/download/FlyerBoerse_03_2013.pdf'&gt;&amp;#8211;&amp;gt; Download Flyer &amp;lt;&amp;#8211;&lt;/a&gt;&lt;/p&gt;</summary>
+    <content type="html">&lt;p&gt;Die nächste Kinderkleider und Spielzeugbörse findet am 23. März 2013 von 10.00 bis 14.00 in der Turnhalle Dorf in Küttigen statt.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href='/download/FlyerBoerse_03_2013.pdf'&gt;&amp;#8211;&amp;gt; Download Flyer &amp;lt;&amp;#8211;&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>Frühlingskurse-Elternbildung</title>
     <link rel="alternate" href="/blog/2013/01/29/fruehlingskurse-elternbildung/"/>
