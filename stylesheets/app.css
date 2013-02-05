@@ -74,6 +74,10 @@ padding-top: 20px;
 
 }
 
+.page-bottom-border {
+	margin-bottom: 200px;
+} 
+
 #header {
   height: 130px;
   background:#333333;
