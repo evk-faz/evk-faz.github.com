@@ -130,10 +130,28 @@ $(document).ready(function () {
     	window.location = url;
 	});
     //END Mobile Navigation
+    
+    //Masonry initialisation
+    var $container = $('#gallery-container');
 
+    $container.imagesLoaded( function(){
+	    $container.masonry({
+		    itemSelector : '.gallery-wraper',
+		    isAnimated: true,
+		    columnWidth: function( containerWidth ) {
+			    return containerWidth / 5;
+			}
+		});
+	});
+    
+    //END Masonry 
+    
+    
+//footable 
   $(function() {
     $('.footable').footable();
   });
+//END footable
 
 
 });
