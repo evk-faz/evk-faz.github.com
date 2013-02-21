@@ -5,10 +5,26 @@
   <id>http://blog.url.com/</id>
   <link href="http://blog.url.com/"/>
   <link href="http://blog.url.com/feed.xml" rel="self"/>
-  <updated>2013-02-04T20:12:00Z</updated>
+  <updated>2013-02-21T19:21:00Z</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>10-Jahre-MusikErlebnis</title>
+    <link rel="alternate" href="/blog/2013/02/21/10-jahre-musikerlebnis/"/>
+    <id>/blog/2013/02/21/10-jahre-musikerlebnis/</id>
+    <published>2013-02-21T19:21:00Z</published>
+    <updated>2013-02-21T19:21:00Z</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;Artikel in der Aargauer Zeitung über 10 Jahre MusikErlebnis Küttigen.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href='http://www.aargauerzeitung.ch/beitrag/leserbeitrag/10-jahre-musikerlebnis-kuettigen-126077164'&gt;Zum Artikel&lt;/a&gt;&lt;/p&gt;</summary>
+    <content type="html">&lt;p&gt;Artikel in der Aargauer Zeitung über 10 Jahre MusikErlebnis Küttigen.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href='http://www.aargauerzeitung.ch/beitrag/leserbeitrag/10-jahre-musikerlebnis-kuettigen-126077164'&gt;Zum Artikel&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>Boerse-03-2013</title>
     <link rel="alternate" href="/blog/2013/02/04/boerse-03-2013/"/>
@@ -98,17 +114,5 @@
 &lt;p&gt;Jubiläums Musicalprojekt &amp;#8220;Der König in der Kiste&amp;#8221; für 4-10 Jährige. Probebeginn 11. Februar 2013 &lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img alt='MusikErlebnis Logo' src='musiklogo2.png' /&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>Example Article</title>
-    <link rel="alternate" href="/blog/2012/01/01/example-article/"/>
-    <id>/blog/2012/01/01/example-article/</id>
-    <published>2012-01-01T00:00:00Z</published>
-    <updated>2012-01-01T00:00:00Z</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;This is an example article. You probably want to delete it and write your own articles!&lt;/p&gt;</summary>
-    <content type="html">&lt;p&gt;This is an example article. You probably want to delete it and write your own articles!&lt;/p&gt;</content>
   </entry>
 </feed>
