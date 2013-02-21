@@ -21,6 +21,10 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>http://youdomain.com/404.html</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>http://youdomain.com/angebot</loc>
     <priority>0.7</priority>
   </url>
