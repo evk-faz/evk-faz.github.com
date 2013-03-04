@@ -53,6 +53,10 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>http://youdomain.com/blog/2013/03/04/10-jahre-musikerlebnis-jubilaeum</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>http://youdomain.com/blog/2013/01/09/10-jahre-musikerlebnis-kuettigen</loc>
     <priority>0.7</priority>
   </url>
@@ -102,6 +106,14 @@
   </url>
   <url>
     <loc>http://youdomain.com/blog/2013</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://youdomain.com/blog/2013/03</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://youdomain.com/blog/2013/03/04</loc>
     <priority>0.7</priority>
   </url>
   <url>
