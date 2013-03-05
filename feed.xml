@@ -5,10 +5,26 @@
   <id>http://blog.url.com/</id>
   <link href="http://blog.url.com/"/>
   <link href="http://blog.url.com/feed.xml" rel="self"/>
-  <updated>2013-03-04T19:43:00Z</updated>
+  <updated>2013-03-05T15:56:00Z</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>Gesucht-FerienSpass-Kurse</title>
+    <link rel="alternate" href="/blog/2013/03/05/gesucht-ferienspass-kurse/"/>
+    <id>/blog/2013/03/05/gesucht-ferienspass-kurse/</id>
+    <published>2013-03-05T15:56:00Z</published>
+    <updated>2013-03-05T15:56:00Z</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;Gesucht werden Anbieter für FerienSpass Kurse 2013. Infos und Details im Flyer.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href='/download/FerienSpass-Kursanbieter.pdf'&gt;&amp;#8211;&amp;gt; Download Flyer &amp;lt;&amp;#8211;&lt;/a&gt;&lt;/p&gt;</summary>
+    <content type="html">&lt;p&gt;Gesucht werden Anbieter für FerienSpass Kurse 2013. Infos und Details im Flyer.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href='/download/FerienSpass-Kursanbieter.pdf'&gt;&amp;#8211;&amp;gt; Download Flyer &amp;lt;&amp;#8211;&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>10-Jahre-Musikerlebnis-Jubilaeum</title>
     <link rel="alternate" href="/blog/2013/03/04/10-jahre-musikerlebnis-jubilaeum/"/>
@@ -100,21 +116,5 @@
 &lt;p&gt;&lt;a href='2013_Veloboerse.pdf'&gt;Flyer Börse&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href='Velokurse_2013.pdf'&gt;Flyer Kinderkurse&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>Kinderfasnacht-2013-Flyer</title>
-    <link rel="alternate" href="/blog/2013/01/17/kinderfasnacht-2013-flyer/"/>
-    <id>/blog/2013/01/17/kinderfasnacht-2013-flyer/</id>
-    <published>2013-01-17T07:27:00Z</published>
-    <updated>2013-01-17T07:27:00Z</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;Der Flyer der Kinderfasnacht 2013 am 16.02.2013 ist online.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href='/download/news/Kinderfasnacht-Flyer-2013.pdf'&gt;&amp;#8211;&amp;gt; Download Flyer &amp;lt;&amp;#8211;&lt;/a&gt;&lt;/p&gt;</summary>
-    <content type="html">&lt;p&gt;Der Flyer der Kinderfasnacht 2013 am 16.02.2013 ist online.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href='/download/news/Kinderfasnacht-Flyer-2013.pdf'&gt;&amp;#8211;&amp;gt; Download Flyer &amp;lt;&amp;#8211;&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
 </feed>

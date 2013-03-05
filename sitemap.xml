@@ -49,6 +49,10 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>http://youdomain.com/blog/2013/03/05/gesucht-ferienspass-kurse</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>http://youdomain.com/blog/2013/02/04/boerse-03-2013</loc>
     <priority>0.7</priority>
   </url>
@@ -97,6 +101,14 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>http://youdomain.com/blog/tags/ferienspass</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://youdomain.com/blog/tags/angebote</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>http://youdomain.com/blog/tags/angebot</loc>
     <priority>0.7</priority>
   </url>
@@ -110,6 +122,10 @@
   </url>
   <url>
     <loc>http://youdomain.com/blog/2013/03</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://youdomain.com/blog/2013/03/05</loc>
     <priority>0.7</priority>
   </url>
   <url>
