@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="de">
   <head>
     <title>Elternverein Küttigen-Rombach - Home</title>
     <meta charset="utf-8" />
@@ -7,7 +7,6 @@
     <meta name="author" content="Oliver Graf">
     <meta name="description" content="Angebote und Informationen über den Elternverein Küttigen Rombach. Der Elternverein bietet diverse Angebote wie das Kinderkaffee oder die MusikErlebnis Angebote für Kinder und Eltern an.  ">
     <meta name="keywords" content="MusikErlebnis, Chinderkafi, Kinderkaffee, Grundausbildung, Musik, für, Kinder, Schwimmkurse, Kleider, und, Spielzeugbörse, Adventsfenster, Küttigen, Kinderfasnacht, Familienzentrum, Mittagstisch, Spielgruppe, Babysitterbörse">
-    <meta name="audience" content="Alle"><meta http-equiv="content-language" content="de">
     <meta name="robots" content="index, follow">
 
     <link href='http://fonts.googleapis.com/css?family=Droid+Sans:400,700' rel='stylesheet' type='text/css'>
@@ -35,7 +34,7 @@
           </ul>
         </div>
         <div class="span2 ">
-          <center><img src="/img/Logo-klein-invert.png" /></center>
+          <center><img src="/img/Logo-klein-invert.png" alt="Elternverein Küttigen-Rombach Logo" /></center>
         </div>
         <div id="navigation-right" class="span5 hidden-phone">
           <ul class="unstyled">
@@ -93,42 +92,49 @@
         <div class="row">
       <div class="span12">
         <h1>Elternverein Küttigen - Rombach</h1>
-        <p>Wir bringen etwas in Bewegung, für unsere Kinder und für uns...</a></p>
+        <p>Wir bringen etwas in Bewegung, für unsere Kinder und für uns...</p>
         <hr />
       </div>
     </div>
+    
     <div class="row">
       <div class="span12">
-		<div id="myCarousel" class="carousel slide">
-		  <!-- Carousel items -->
-		  <div class="carousel-inner">
-		    <div class="active item">
-		    	<img src="/img/Start_Mittagstisch.jpg" />
-		    	<div class="carousel-caption">
-                  <h4>Mittagstisch</h4>
-                  <p>Der Elternverein, unterstützt von der Gemeinde Küttigen-Rombach, führt den Mittagstisch für Kindergarten- und Schulkinder mit kompetenter Betreuung, ausgewogener Ernährung und idealer Infrastruktur.</p>
-                </div>
-		    </div>
-		    <div class="item">
-		    	<img src="/img/kinderfasnacht_start.jpg" />
-		    	<div class="carousel-caption">
-                  <h4>Kinderfasnacht</h4>
-                  <p>Die Arbeitsgruppe Fasnacht organisiert alljährlich einen bunten Umzug für kleine und grosse FasnächtlerInnen durch Küttigen.</p>
-                </div>
-		    </div>
-		    <div class="item">
-		    	<img src="/img/waldspielgruppe_start.jpg" />
-		    	<div class="carousel-caption">
-                  <h4>Waldspielgruppe</h4>
-                  <p>Sehen, Hören, Riechen, Fühlen und Tasten ebenso wie die Fein- und Grobmotorik. Auch für Fantasie und Kreativität bietet der Wald ein ideales Lernfeld. Die Abenteuerlust kann gelebt werden.</p>
-                </div>
-		    </div>
-
-		  </div>
-		  <!-- Carousel nav -->
-		  <a class="carousel-control left" href="#myCarousel" data-slide="prev">&lsaquo;</a>
-		  <a class="carousel-control right" href="#myCarousel" data-slide="next">&rsaquo;</a>
-		</div>
+	        <!-- Carousel -->
+			<div id="myCarousel" class="carousel slide">
+			  <ol class="carousel-indicators">
+			    <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+			    <li data-target="#myCarousel" data-slide-to="1"></li>
+			    <li data-target="#myCarousel" data-slide-to="2"></li>
+			  </ol>
+			  <!-- Carousel items -->
+			  <div class="carousel-inner">
+			    <div class="active item">		    	
+			    	<img alt="Mittagstisch Werbung" src="/img/Start_Mittagstisch.jpg" />
+			    	<div class="carousel-caption">
+				    	<h4>Mittagstisch</h4>
+				    	<p>Der Elternverein, unterstützt von der Gemeinde Küttigen-Rombach, führt den Mittagstisch für Kindergarten- und Schulkinder mit kompetenter Betreuung, 
+				    	ausgewogener Ernährung und idealer Infrastruktur.</p>
+				    </div>
+			    </div>
+			    <div class="item">
+				    <img alt="Kinderfasnacht Werbung" src="/img/kinderfasnacht_start.jpg" />
+				    <div class="carousel-caption">
+						<h4>Kinderfasnacht</h4>
+						<p>Die Arbeitsgruppe Fasnacht organisiert alljährlich einen bunten Umzug für kleine und grosse FasnächtlerInnen durch Küttigen.</p>
+					</div>
+			    </div>
+			    <div class="item">
+				    <img alt="Waldspielgruppe Werbung" src="/img/waldspielgruppe_start.jpg" />
+				    <div class="carousel-caption">
+					    <h4>Waldspielgruppe</h4>
+					    <p>Sehen, Hören, Riechen, Fühlen und Tasten ebenso wie die Fein- und Grobmotorik. Auch für Fantasie und Kreativität bietet der Wald ein ideales Lernfeld. Die Abenteuerlust kann gelebt werden.</p>
+					</div>
+			    </div>
+			  </div>
+			  <!-- Carousel nav -->
+			  <a class="carousel-control left" data-slide="prev" onclick="$('#myCarousel').carousel('prev')">&lsaquo;</a>
+			  <a class="carousel-control right" data-slide="next" onclick="$('#myCarousel').carousel('next')">&rsaquo;</a>
+			</div>
       </div>
     </div>
 
@@ -252,9 +258,12 @@
         $(document).ready(function() {
         //$('#page').scrollspy();
         $('#page').scrollspy({
-          offset: 0
-          });
-        $('#myCarousel').carousel({ interval: 4000 })
+          	offset: 220
+          	});
+        
+        $('#myCarousel').carousel({ 
+        	interval: 4000 
+        	});
         });
 
     </script>
