@@ -9,6 +9,10 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>http://youdomain.com/danke</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>http://youdomain.com/bilder</loc>
     <priority>0.7</priority>
   </url>
@@ -62,6 +66,10 @@
   </url>
   <url>
     <loc>http://youdomain.com/blog/2013/01/09/10-jahre-musikerlebnis-kuettigen</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://youdomain.com/blog/2013/03/19/kinderfasnacht-2013-die-bilder</loc>
     <priority>0.7</priority>
   </url>
   <url>
@@ -122,6 +130,10 @@
   </url>
   <url>
     <loc>http://youdomain.com/blog/2013/03</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://youdomain.com/blog/2013/03/19</loc>
     <priority>0.7</priority>
   </url>
   <url>

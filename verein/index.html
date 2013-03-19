@@ -220,17 +220,18 @@
       <h2>Mitgliedschaft</h2>
       <div class="row">
         <div class="span9">
-          <form id="frmAnmeldung">
+          <form id="frmAnmeldung" action="http://mailer.graf.nom.co/mailer.aspx?redirect=http://www.evk-faz.ch/danke" method="post">
             <fieldset>
               <legend>Anmeldung</legend>
+              <input type="hidden" name="Subject" value="Mitgliedschaft Anmeldung">
               <label class="checkbox">
-                <input type="checkbox">Ich interessiere mich für eine Mitgliedschaft. (Jahresbeitrag Fr. 50.00)
+                <input name="Interesse Mitgliedschaft" type="checkbox">Ich interessiere mich für eine Mitgliedschaft. (Jahresbeitrag Fr. 50.00)
               </label>
               <label class="checkbox">
-                <input type="checkbox">Ich interessiere mich für eine Gönnerschaft (Mindesteinlage Fr. 40.00)
+                <input name="Interesse Gönnerschaft" type="checkbox">Ich interessiere mich für eine Gönnerschaft (Mindesteinlage Fr. 40.00)
               </label>
               <label class="checkbox">
-                <input type="checkbox">Ich interessiere mich für ein spezielles Angebot
+                <input name="Interesse spezielles Angebot" type="checkbox">Ich interessiere mich für ein spezielles Angebot
               </label>
               <input id="Nachname_a" name="Nachname" class="input-block-level" type="text" placeholder="Name">
               <input id="Vorname_a" name="Vorname" class="input-block-level" type="text" placeholder="Vorname">
@@ -240,7 +241,7 @@
               <input id="Telefon_a"  name="Telefon" class="input-block-level" type="text" placeholder="Telefon">
               <input id="Email_a" name="Email" class="input-block-level" type="text" placeholder="Email">
               <label>Bemerkungen</label>
-              <textarea id="Bemerkungen_a" id="Bemerkungen" class="input-block-level" rows="5"></textarea>
+              <textarea id="Bemerkungen_a" name="Bemerkungen" class="input-block-level" rows="5"></textarea>
               <button type="submit" class="btn">Submit</button>
             </fieldset>
            </form>
