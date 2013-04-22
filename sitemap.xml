@@ -1,207 +1,267 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://youdomain.com/news</loc>
+    <loc>http://www.evk-faz.ch/news</loc>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://youdomain.com/verein</loc>
+    <loc>http://www.evk-faz.ch/verein</loc>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://youdomain.com/danke</loc>
+    <loc>http://www.evk-faz.ch/danke</loc>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://youdomain.com/bilder</loc>
+    <loc>http://www.evk-faz.ch/bilder</loc>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://youdomain.com/familienzentrum</loc>
+    <loc>http://www.evk-faz.ch/familienzentrum</loc>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://youdomain.com/index.html</loc>
+    <loc>http://www.evk-faz.ch/index.html</loc>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://youdomain.com/404.html</loc>
+    <loc>http://www.evk-faz.ch/404.html</loc>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://youdomain.com/angebot</loc>
+    <loc>http://www.evk-faz.ch/angebot</loc>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://youdomain.com/blog/2013/02/21/10-jahre-musikerlebnis</loc>
+    <loc>http://www.evk-faz.ch/blog/2013/02/21/10-jahre-musikerlebnis</loc>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://youdomain.com/blog/2013/04/12/family-days-raiffeisenbank-erlinsbach</loc>
+    <loc>http://www.evk-faz.ch/blog/2013/04/12/family-days-raiffeisenbank-erlinsbach</loc>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://youdomain.com/blog/2013/01/17/veloboerse-und-kindersicherheitskurse</loc>
+    <loc>http://www.evk-faz.ch/blog/2013/01/17/veloboerse-und-kindersicherheitskurse</loc>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://youdomain.com/blog/2013/01/29/fruehlingskurse-elternbildung</loc>
+    <loc>http://www.evk-faz.ch/blog/2013/01/29/fruehlingskurse-elternbildung</loc>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://youdomain.com/blog/2012/01/01/example-article</loc>
+    <loc>http://www.evk-faz.ch/blog/2012/01/01/example-article</loc>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://youdomain.com/blog/2013/01/17/kinderfasnacht-2013-flyer</loc>
+    <loc>http://www.evk-faz.ch/blog/2013/01/17/kinderfasnacht-2013-flyer</loc>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://youdomain.com/blog/2013/03/05/gesucht-ferienspass-kurse</loc>
+    <loc>http://www.evk-faz.ch/blog/2013/03/05/gesucht-ferienspass-kurse</loc>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://youdomain.com/blog/2013/02/04/boerse-03-2013</loc>
+    <loc>http://www.evk-faz.ch/blog/2013/02/04/boerse-03-2013</loc>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://youdomain.com/blog/2013/03/04/10-jahre-musikerlebnis-jubilaeum</loc>
+    <loc>http://www.evk-faz.ch/blog/2013/03/04/10-jahre-musikerlebnis-jubilaeum</loc>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://youdomain.com/blog/2013/03/25/fruehlingserwachen-im-gue-x</loc>
+    <loc>http://www.evk-faz.ch/blog/2013/04/22/helfer-fuer-muelifest</loc>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://youdomain.com/blog/2013/01/09/10-jahre-musikerlebnis-kuettigen</loc>
+    <loc>http://www.evk-faz.ch/blog/2013/03/25/fruehlingserwachen-im-gue-x</loc>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://youdomain.com/blog/2013/03/19/kinderfasnacht-2013-die-bilder</loc>
+    <loc>http://www.evk-faz.ch/blog/2013/01/09/10-jahre-musikerlebnis-kuettigen</loc>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://youdomain.com/blog/tags/musikerlebnis</loc>
+    <loc>http://www.evk-faz.ch/blog/2013/03/19/kinderfasnacht-2013-die-bilder</loc>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://youdomain.com/blog/tags/angebot</loc>
+    <loc>http://www.evk-faz.ch/blog/tags/musikerlebnis</loc>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://youdomain.com/blog/tags/externe</loc>
+    <loc>http://www.evk-faz.ch/blog/tags/angebot</loc>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://youdomain.com/blog/tags/kurse</loc>
+    <loc>http://www.evk-faz.ch/blog/tags/externe</loc>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://youdomain.com/blog/tags/example</loc>
+    <loc>http://www.evk-faz.ch/blog/tags/kurse</loc>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://youdomain.com/blog/tags/test</loc>
+    <loc>http://www.evk-faz.ch/blog/tags/example</loc>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://youdomain.com/blog/tags/ag</loc>
+    <loc>http://www.evk-faz.ch/blog/tags/test</loc>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://youdomain.com/blog/tags/kinderfasnacht</loc>
+    <loc>http://www.evk-faz.ch/blog/tags/ag</loc>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://youdomain.com/blog/tags/arbeitsgruppen</loc>
+    <loc>http://www.evk-faz.ch/blog/tags/kinderfasnacht</loc>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://youdomain.com/blog/tags/ferienspass</loc>
+    <loc>http://www.evk-faz.ch/blog/tags/arbeitsgruppen</loc>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://youdomain.com/blog/tags/angebote</loc>
+    <loc>http://www.evk-faz.ch/blog/tags/ferienspass</loc>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://youdomain.com/blog/tags/angebot</loc>
+    <loc>http://www.evk-faz.ch/blog/tags/angebote</loc>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://youdomain.com/blog/tags/borse</loc>
+    <loc>http://www.evk-faz.ch/blog/tags/angebot</loc>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://youdomain.com/blog/2013</loc>
+    <loc>http://www.evk-faz.ch/blog/tags/borse</loc>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://youdomain.com/blog/2013/04</loc>
+    <loc>http://www.evk-faz.ch/blog/tags/verein</loc>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://youdomain.com/blog/2013/04/12</loc>
+    <loc>http://www.evk-faz.ch/blog/2013</loc>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://youdomain.com/blog/2013/03</loc>
+    <loc>http://www.evk-faz.ch/blog/2013/04</loc>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://youdomain.com/blog/2013/03/25</loc>
+    <loc>http://www.evk-faz.ch/blog/2013/04/22</loc>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://youdomain.com/blog/2013/03/19</loc>
+    <loc>http://www.evk-faz.ch/blog/2013/04/12</loc>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://youdomain.com/blog/2013/03/05</loc>
+    <loc>http://www.evk-faz.ch/blog/2013/03</loc>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://youdomain.com/blog/2013/03/04</loc>
+    <loc>http://www.evk-faz.ch/blog/2013/03/25</loc>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://youdomain.com/blog/2013/02</loc>
+    <loc>http://www.evk-faz.ch/blog/2013/03/19</loc>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://youdomain.com/blog/2013/02/21</loc>
+    <loc>http://www.evk-faz.ch/blog/2013/03/05</loc>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://youdomain.com/blog/2013/02/04</loc>
+    <loc>http://www.evk-faz.ch/blog/2013/03/04</loc>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://youdomain.com/blog/2013/01</loc>
+    <loc>http://www.evk-faz.ch/blog/2013/02</loc>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://youdomain.com/blog/2013/01/29</loc>
+    <loc>http://www.evk-faz.ch/blog/2013/02/21</loc>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://youdomain.com/blog/2013/01/17</loc>
+    <loc>http://www.evk-faz.ch/blog/2013/02/04</loc>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://youdomain.com/blog/2013/01/09</loc>
+    <loc>http://www.evk-faz.ch/blog/2013/01</loc>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://youdomain.com/blog/2012</loc>
+    <loc>http://www.evk-faz.ch/blog/2013/01/29</loc>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://youdomain.com/blog/2012/01</loc>
+    <loc>http://www.evk-faz.ch/blog/2013/01/17</loc>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://youdomain.com/blog/2012/01/01</loc>
+    <loc>http://www.evk-faz.ch/blog/2013/01/09</loc>
     <priority>0.7</priority>
   </url>
+  <url>
+    <loc>http://www.evk-faz.ch/blog/2012</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.evk-faz.ch/blog/2012/01</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.evk-faz.ch/blog/2012/01/01</loc>
+    <priority>0.7</priority>
+  </url>
+ <url>
+ <loc>http://www.evk-faz.ch/angebot/#Adventsfenster</loc>
+ <priority>0.7</priority>
+ </url>
+ <url>
+ <loc>http://www.evk-faz.ch/angebot/#Babysitterboerse</loc>
+ <priority>0.7</priority>
+ </url>
+ <url>
+ <loc>http://www.evk-faz.ch/angebot/#Chinderkafi</loc>
+ <priority>0.7</priority>
+ </url>
+ <url>
+ <loc>http://www.evk-faz.ch/angebot/#Kinderfasnacht</loc>
+ <priority>0.7</priority>
+ </url>
+ <url>
+ <loc>http://www.evk-faz.ch/angebot/#Boerse</loc>
+ <priority>0.7</priority>
+ </url>
+ <url>
+ <loc>http://www.evk-faz.ch/angebot/#Kinderrechtstag</loc>
+ <priority>0.7</priority>
+ </url>
+ <url>
+ <loc>http://www.evk-faz.ch/angebot/#Kinderschwimmen</loc>
+ <priority>0.7</priority>
+ </url>
+ <url>
+ <loc>http://www.evk-faz.ch/angebot/#Mittagstisch</loc>
+ <priority>0.7</priority>
+ </url>
+ <url>
+ <loc>http://www.evk-faz.ch/angebot/#MusikErlebnis</loc>
+ <priority>0.7</priority>
+ </url>
+ <url>
+ <loc>http://www.evk-faz.ch/angebot/#Spielgruppe</loc>
+ <priority>0.7</priority>
+ </url>
+ <url>
+ <loc>http://www.evk-faz.ch/angebot/#Waldspielgruppe</loc>
+ <priority>0.7</priority>
+ </url>
+ <url>
+ <loc>http://www.evk-faz.ch/angebot/#FerienSpass</loc>
+ <priority>0.7</priority>
+ </url>
 </urlset>
