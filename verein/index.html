@@ -234,7 +234,7 @@
       <h2>Mitgliedschaft</h2>
       <div class="row">
         <div class="span9">
-          <form id="frmAnmeldung" action="http://mailer.graf.nom.co/mailer.aspx?redirect=http://www.evk-faz.ch/danke" method="post">
+          <form id="frmAnmeldung" action="http://mailer.graf.nom.co/mailer-evk-anmeldeformular.aspx?redirect=http://www.evk-faz.ch/danke" method="post">
             <fieldset>
               <legend>Anmeldung</legend>
               <input type="hidden" name="Subject" value="Mitgliedschaft Anmeldung">
@@ -268,9 +268,10 @@
       <h2>Kontakt</h2>
       <div class="row">
         <div class="span9">
-          <form id="frmKontakt">
+          <form id="frmKontakt" action="http://mailer.graf.nom.co/mailer-evk-kontaktformular.aspx?redirect=http://www.evk-faz.ch/danke" method="post">
             <fieldset>
               <legend>Anmeldung</legend>
+              <input type="hidden" name="Subject" value="Kontaktanfrage">
               <input id="Nachname_k" name="Nachname" class="input-block-level" type="text" placeholder="Name">
               <input id="Vorname_k" name="Vorname" class="input-block-level" type="text" placeholder="Vorname">
               <input id="Adresse_k" name="Adresse" class="input-block-level" type="text" placeholder="Adresse">
