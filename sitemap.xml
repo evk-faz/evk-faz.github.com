@@ -9,6 +9,10 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>http://www.evk-faz.ch/google989d40e726ed4f99.html</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>http://www.evk-faz.ch/danke</loc>
     <priority>0.7</priority>
   </url>
@@ -46,10 +50,6 @@
   </url>
   <url>
     <loc>http://www.evk-faz.ch/blog/2013/01/29/fruehlingskurse-elternbildung</loc>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>http://www.evk-faz.ch/blog/2012/01/01/example-article</loc>
     <priority>0.7</priority>
   </url>
   <url>
@@ -101,18 +101,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://www.evk-faz.ch/blog/tags/example</loc>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>http://www.evk-faz.ch/blog/tags/test</loc>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>http://www.evk-faz.ch/blog/tags/ag</loc>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>http://www.evk-faz.ch/blog/tags/kinderfasnacht</loc>
     <priority>0.7</priority>
   </url>
@@ -134,6 +122,10 @@
   </url>
   <url>
     <loc>http://www.evk-faz.ch/blog/tags/borse</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.evk-faz.ch/blog/tags/example</loc>
     <priority>0.7</priority>
   </url>
   <url>
@@ -202,18 +194,6 @@
   </url>
   <url>
     <loc>http://www.evk-faz.ch/blog/2013/01/09</loc>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>http://www.evk-faz.ch/blog/2012</loc>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>http://www.evk-faz.ch/blog/2012/01</loc>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>http://www.evk-faz.ch/blog/2012/01/01</loc>
     <priority>0.7</priority>
   </url>
  <url>
