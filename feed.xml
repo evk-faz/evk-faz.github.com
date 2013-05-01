@@ -5,10 +5,26 @@
   <id>http://blog.url.com/</id>
   <link href="http://blog.url.com/"/>
   <link href="http://blog.url.com/feed.xml" rel="self"/>
-  <updated>2013-04-22T20:34:00Z</updated>
+  <updated>2013-05-01T13:01:00Z</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>Schwimmkurse Küttigen 2013</title>
+    <link rel="alternate" href="/blog/2013/05/01/schwimmkurse-kuettigen-2013/"/>
+    <id>/blog/2013/05/01/schwimmkurse-kuettigen-2013/</id>
+    <published>2013-05-01T13:01:00Z</published>
+    <updated>2013-05-01T13:01:00Z</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;Das Anmeldeformular für die Schwimmkurse im Sommer 2013 in Küttigen ist online.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href='/download/AnmeldungSchwimmkurs2013.pdf'&gt;&amp;#8211;&amp;gt; Download Formular &amp;lt;&amp;#8211;&lt;/a&gt;&lt;/p&gt;</summary>
+    <content type="html">&lt;p&gt;Das Anmeldeformular für die Schwimmkurse im Sommer 2013 in Küttigen ist online.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href='/download/AnmeldungSchwimmkurs2013.pdf'&gt;&amp;#8211;&amp;gt; Download Formular &amp;lt;&amp;#8211;&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>Helfer für Mülifest</title>
     <link rel="alternate" href="/blog/2013/04/22/helfer-fuer-muelifest/"/>
@@ -100,25 +116,5 @@
     <content type="html">&lt;p&gt;Gesucht werden Anbieter für FerienSpass Kurse 2013. Infos und Details im Flyer.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href='/download/FerienSpass-Kursanbieter.pdf'&gt;&amp;#8211;&amp;gt; Download Flyer &amp;lt;&amp;#8211;&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>10 Jahre Musikerlebnis Jubiläum</title>
-    <link rel="alternate" href="/blog/2013/03/04/10-jahre-musikerlebnis-jubilaeum/"/>
-    <id>/blog/2013/03/04/10-jahre-musikerlebnis-jubilaeum/</id>
-    <published>2013-03-04T19:43:00Z</published>
-    <updated>2013-03-04T19:43:00Z</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;&lt;strong&gt;10 Jahre MusikErlebnis: gelungenes Jubiläumsfest im Spittel!&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Am vergangenen Samstag durften viele Kinder und ihre Eltern im Spittel das zehnjährige Jubiläum des MusikErlebnis feiern. Sophie Moor und Anette Flury-Jegge ermöglichten an diesem Tag einen Einblick in die ganze Vielfalt ihres langjährigen und erfolgreichen Kursangebots: Vom Kasperlitheater, über die Erkundung verschiedener Geräusche, das Singen, Basteln und Tanzen!&lt;/p&gt;</summary>
-    <content type="html">&lt;p&gt;&lt;strong&gt;10 Jahre MusikErlebnis: gelungenes Jubiläumsfest im Spittel!&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Am vergangenen Samstag durften viele Kinder und ihre Eltern im Spittel das zehnjährige Jubiläum des MusikErlebnis feiern. Sophie Moor und Anette Flury-Jegge ermöglichten an diesem Tag einen Einblick in die ganze Vielfalt ihres langjährigen und erfolgreichen Kursangebots: Vom Kasperlitheater, über die Erkundung verschiedener Geräusche, das Singen, Basteln und Tanzen!&lt;/p&gt;
-
-&lt;p&gt;Der Vorstand freut sich auf die nächsten 10 Jahre Zusammenarbeit, dankt und gratuliert herzlich!&lt;/p&gt;
-
-&lt;p&gt;&lt;img alt='MusikErlebnis Anlass' src='evk_musikerlebnis10.jpg' /&gt;&lt;/p&gt;</content>
   </entry>
 </feed>
