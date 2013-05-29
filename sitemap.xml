@@ -81,6 +81,10 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>http://www.evk-faz.ch/blog/2013/05/29/ferienspass-abholtag</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>http://www.evk-faz.ch/blog/2013/01/09/10-jahre-musikerlebnis-kuettigen</loc>
     <priority>0.7</priority>
   </url>
@@ -150,6 +154,10 @@
   </url>
   <url>
     <loc>http://www.evk-faz.ch/blog/2013/05</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.evk-faz.ch/blog/2013/05/29</loc>
     <priority>0.7</priority>
   </url>
   <url>

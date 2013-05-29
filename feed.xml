@@ -1,14 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Blog Name</title>
-  <subtitle>Blog subtitle</subtitle>
-  <id>http://blog.url.com/</id>
-  <link href="http://blog.url.com/"/>
-  <link href="http://blog.url.com/feed.xml" rel="self"/>
-  <updated>2013-05-04T12:36:00Z</updated>
+  <title>EVK News</title>
+  <subtitle>Elternverein Küttigen-Rombach</subtitle>
+  <id>http://evk-faz.ch/</id>
+  <link href="http://evk-faz.ch/"/>
+  <link href="http://evk-faz.ch/feed.xml" rel="self"/>
+  <updated>2013-05-29T18:49:00Z</updated>
   <author>
-    <name>Blog Author</name>
+    <name>Elternverein Küttigen-Rombach</name>
   </author>
+  <entry>
+    <title>FerienSpass Abholtag Bestätigungen</title>
+    <link rel="alternate" href="/blog/2013/05/29/ferienspass-abholtag/"/>
+    <id>/blog/2013/05/29/ferienspass-abholtag/</id>
+    <published>2013-05-29T18:49:00Z</published>
+    <updated>2013-05-29T18:49:00Z</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;Liebe FerienSpass Teilnehmer, liebe Eltern!&lt;/p&gt;
+
+&lt;p&gt;Danke sehr für all eure Anmeldungen für den Küttiger FerienSpass 2013.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Die Kursbestätigungen könnt ihr am Abholtag abholen : Dienstag, 4. Juni 2013, 17.00 bis 19.30 Uhr im Familienzentrum, alte Mühle, Küttigen&lt;/strong&gt;&lt;/p&gt;</summary>
+    <content type="html">&lt;p&gt;Liebe FerienSpass Teilnehmer, liebe Eltern!&lt;/p&gt;
+
+&lt;p&gt;Danke sehr für all eure Anmeldungen für den Küttiger FerienSpass 2013.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Die Kursbestätigungen könnt ihr am Abholtag abholen : Dienstag, 4. Juni 2013, 17.00 bis 19.30 Uhr im Familienzentrum, alte Mühle, Küttigen&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Bitte die Parkplätze vom Schulhaus Dorf benutzen.&lt;/p&gt;
+
+&lt;p&gt;Die Kursbestätigung wird &lt;strong&gt;gegen Barzahlung&lt;/strong&gt; am Abholtag abgegeben. Ohne Kursbestätigung kannst du keinen Kurs besuchen.&lt;/p&gt;
+
+&lt;p&gt;Wer seine Kursbestätigung nicht selber abholen kann, organisiert eine Vertretung oder meldet sich telefonisch beim FerienSpassTeam&lt;/p&gt;
+
+&lt;p&gt;(Telefonummern siehe Programmheft).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Kursbörse&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Es gibt in diversen Kursen noch &lt;strong&gt;freie Kursplätze&lt;/strong&gt;, z.B. Kurs &amp;#8230;4,15,26, 38,49&amp;#8230;..etc. Diese können am Abholtag spontan gebucht werden. Es lohnt sich also, persöhnlich vorbeizuschauen!&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Zu spät eingegangenen Anmeldungen&lt;/strong&gt; konnten leider nicht mehr berücksichtigt werden und wurden automatisch auf die Warteliste gesetzt.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Viel FerienSpass&lt;/strong&gt; wünscht euch die FerienSpass Arbeitsgruppe Priska, Daniela, Konstanze, Tilly, Sonja, Elisa, Corina und Manuela&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>Jugendfest 2013 Helfer</title>
     <link rel="alternate" href="/blog/2013/05/04/jugendfest-2013-helfer/"/>
@@ -104,21 +140,5 @@
     <content type="html">&lt;p&gt;Erleben Sie einen &amp;#8216;märlihaften&amp;#8217; Tag im gü-x in Küttigen.&lt;/p&gt;
 
 &lt;p&gt;Informationen im &lt;a href='http://www.gue-x.ch/app/download/7069038176/Flyer+Märlitag+A4.pdf?t=1363776997'&gt;Flyer&lt;/a&gt; oder auf &lt;a href='http://www.gue-x.ch'&gt;gü-x.ch&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>Kinderfasnacht 2013 die Bilder</title>
-    <link rel="alternate" href="/blog/2013/03/19/kinderfasnacht-2013-die-bilder/"/>
-    <id>/blog/2013/03/19/kinderfasnacht-2013-die-bilder/</id>
-    <published>2013-03-19T15:55:00Z</published>
-    <updated>2013-03-19T15:55:00Z</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;Die Bilder der Kinderfasnacht 2013 in Küttigen sind online.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href='https://picasaweb.google.com/103759103677624128899/Kinderfasnacht2013?feat=email#slideshow/5856411981396216018'&gt;&amp;#8211;&amp;gt; Zur Galerie &amp;lt;&amp;#8211;&lt;/a&gt;&lt;/p&gt;</summary>
-    <content type="html">&lt;p&gt;Die Bilder der Kinderfasnacht 2013 in Küttigen sind online.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href='https://picasaweb.google.com/103759103677624128899/Kinderfasnacht2013?feat=email#slideshow/5856411981396216018'&gt;&amp;#8211;&amp;gt; Zur Galerie &amp;lt;&amp;#8211;&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
 </feed>
