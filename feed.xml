@@ -5,10 +5,24 @@
   <id>http://evk-faz.ch/</id>
   <link href="http://evk-faz.ch/"/>
   <link href="http://evk-faz.ch/feed.xml" rel="self"/>
-  <updated>2013-05-29T18:49:00Z</updated>
+  <updated>2013-06-05T18:41:00Z</updated>
   <author>
     <name>Elternverein Küttigen-Rombach</name>
   </author>
+  <entry>
+    <title>Der-Köenig-in-der-Kiste</title>
+    <link rel="alternate" href="/blog/2013/06/05/der-koenig-in-der-kiste/"/>
+    <id>/blog/2013/06/05/der-koenig-in-der-kiste/</id>
+    <published>2013-06-05T18:41:00Z</published>
+    <updated>2013-06-05T18:41:00Z</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;Gelungene Musical-Aufführung ‘Der König in der Kiste’&lt;/strong&gt; &lt;br /&gt;Am vergangenen Montag wurde im Spittel durch das MusikErlebnis unter der Leitung von Anette Flury-Jegge das Musical ‘Der König in der Kiste’ aufgeführt. Die vielfältigen Lieder , das Bühnenbild und die farbigen und sorgfältigen Kostüme begeisterten die rund 50 Zuschauer. Vielen Dank den Schauspielern und den Leiterinnen!&lt;/p&gt;</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Gelungene Musical-Aufführung ‘Der König in der Kiste’&lt;/strong&gt; &lt;br /&gt;Am vergangenen Montag wurde im Spittel durch das MusikErlebnis unter der Leitung von Anette Flury-Jegge das Musical ‘Der König in der Kiste’ aufgeführt. Die vielfältigen Lieder , das Bühnenbild und die farbigen und sorgfältigen Kostüme begeisterten die rund 50 Zuschauer. Vielen Dank den Schauspielern und den Leiterinnen!&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt='Der König in der Kiste' src='der-koenig.jpg' /&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>FerienSpass Abholtag Bestätigungen</title>
     <link rel="alternate" href="/blog/2013/05/29/ferienspass-abholtag/"/>
@@ -124,21 +138,5 @@
     </author>
     <summary type="html">&lt;p&gt;Die Raiffeisenbank Erlinsbach/Küttigen organisiert am 22.6. und am 6.7. zwei Family-Days für Familien aus Küttigen und Erlinsbach.&lt;/p&gt;</summary>
     <content type="html">&lt;p&gt;Die Raiffeisenbank Erlinsbach/Küttigen organisiert am 22.6. und am 6.7. zwei Family-Days für Familien aus Küttigen und Erlinsbach.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>Fruehlingserwachen im Gü-x</title>
-    <link rel="alternate" href="/blog/2013/03/25/fruehlingserwachen-im-gue-x/"/>
-    <id>/blog/2013/03/25/fruehlingserwachen-im-gue-x/</id>
-    <published>2013-03-25T14:56:00Z</published>
-    <updated>2013-03-25T14:56:00Z</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;Erleben Sie einen &amp;#8216;märlihaften&amp;#8217; Tag im gü-x in Küttigen.&lt;/p&gt;
-
-&lt;p&gt;Informationen im &lt;a href='http://www.gue-x.ch/app/download/7069038176/Flyer+Märlitag+A4.pdf?t=1363776997'&gt;Flyer&lt;/a&gt; oder auf &lt;a href='http://www.gue-x.ch'&gt;gü-x.ch&lt;/a&gt;&lt;/p&gt;</summary>
-    <content type="html">&lt;p&gt;Erleben Sie einen &amp;#8216;märlihaften&amp;#8217; Tag im gü-x in Küttigen.&lt;/p&gt;
-
-&lt;p&gt;Informationen im &lt;a href='http://www.gue-x.ch/app/download/7069038176/Flyer+Märlitag+A4.pdf?t=1363776997'&gt;Flyer&lt;/a&gt; oder auf &lt;a href='http://www.gue-x.ch'&gt;gü-x.ch&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
 </feed>
