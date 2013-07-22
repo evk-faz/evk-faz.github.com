@@ -5,12 +5,24 @@
   <id>http://evk-faz.ch/</id>
   <link href="http://evk-faz.ch/"/>
   <link href="http://evk-faz.ch/feed.xml" rel="self"/>
-  <updated>2013-06-05T18:41:00Z</updated>
+  <updated>2013-07-22T06:40:00Z</updated>
   <author>
     <name>Elternverein Küttigen-Rombach</name>
   </author>
   <entry>
-    <title>Der-Köenig-in-der-Kiste</title>
+    <title>Blinkanlage beim Fussgängerstreifen</title>
+    <link rel="alternate" href="/blog/2013/07/22/blinkanlage-beim-fussgaengerstreifen/"/>
+    <id>/blog/2013/07/22/blinkanlage-beim-fussgaengerstreifen/</id>
+    <published>2013-07-22T06:40:00Z</published>
+    <updated>2013-07-22T06:40:00Z</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;Die Blinkanalge beim Fussgängerstreifen über die Dorfstrasse beim Spittel/Schulhaus Dorf wurde letzte Woche (02.07.2013) installiert. Schauen Sie sich diese Strassenquerungshilfe bei der nächsten Gelegenheit zusammen mit Ihren Kindern an. Weitere Infos folgen.&lt;/p&gt;</summary>
+    <content type="html">&lt;p&gt;Die Blinkanalge beim Fussgängerstreifen über die Dorfstrasse beim Spittel/Schulhaus Dorf wurde letzte Woche (02.07.2013) installiert. Schauen Sie sich diese Strassenquerungshilfe bei der nächsten Gelegenheit zusammen mit Ihren Kindern an. Weitere Infos folgen.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Der Köenig in der Kiste</title>
     <link rel="alternate" href="/blog/2013/06/05/der-koenig-in-der-kiste/"/>
     <id>/blog/2013/06/05/der-koenig-in-der-kiste/</id>
     <published>2013-06-05T18:41:00Z</published>
@@ -126,17 +138,5 @@
 &lt;ul&gt;
 &lt;li&gt;Die Geschichten werden durch uns ausgesucht, können selbstverständlich aber auch &amp;#8220;eigenhändig&amp;#8221; vorbereitet werden.&lt;/li&gt;
 &lt;/ul&gt;</content>
-  </entry>
-  <entry>
-    <title>Family Days Raiffeisenbank-Erlinsbach</title>
-    <link rel="alternate" href="/blog/2013/04/12/family-days-raiffeisenbank-erlinsbach/"/>
-    <id>/blog/2013/04/12/family-days-raiffeisenbank-erlinsbach/</id>
-    <published>2013-04-12T09:36:00Z</published>
-    <updated>2013-04-12T09:36:00Z</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;Die Raiffeisenbank Erlinsbach/Küttigen organisiert am 22.6. und am 6.7. zwei Family-Days für Familien aus Küttigen und Erlinsbach.&lt;/p&gt;</summary>
-    <content type="html">&lt;p&gt;Die Raiffeisenbank Erlinsbach/Küttigen organisiert am 22.6. und am 6.7. zwei Family-Days für Familien aus Küttigen und Erlinsbach.&lt;/p&gt;</content>
   </entry>
 </feed>

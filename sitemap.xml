@@ -49,6 +49,10 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>http://www.evk-faz.ch/blog/2013/07/22/blinkanlage-beim-fussgaengerstreifen</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>http://www.evk-faz.ch/blog/2013/01/17/veloboerse-und-kindersicherheitskurse</loc>
     <priority>0.7</priority>
   </url>
@@ -117,6 +121,10 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>http://www.evk-faz.ch/blog/tags/verkehrssicherheit</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>http://www.evk-faz.ch/blog/tags/kurse</loc>
     <priority>0.7</priority>
   </url>
@@ -154,6 +162,14 @@
   </url>
   <url>
     <loc>http://www.evk-faz.ch/blog/2013</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.evk-faz.ch/blog/2013/07</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.evk-faz.ch/blog/2013/07/22</loc>
     <priority>0.7</priority>
   </url>
   <url>
