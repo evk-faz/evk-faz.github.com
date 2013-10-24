@@ -61,6 +61,10 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>http://www.evk-faz.ch/blog/2013/10/24/babysitting-kurs-2013</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>http://www.evk-faz.ch/blog/2013/09/19/chinderkafi-apero</loc>
     <priority>0.7</priority>
   </url>
@@ -149,6 +153,10 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>http://www.evk-faz.ch/blog/tags/babysitting</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>http://www.evk-faz.ch/blog/tags/chinderkafi</loc>
     <priority>0.7</priority>
   </url>
@@ -202,6 +210,10 @@
   </url>
   <url>
     <loc>http://www.evk-faz.ch/blog/2013/10</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.evk-faz.ch/blog/2013/10/24</loc>
     <priority>0.7</priority>
   </url>
   <url>
