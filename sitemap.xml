@@ -85,6 +85,10 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>http://www.evk-faz.ch/blog/2013/10/24/adventsfenster-2013</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>http://www.evk-faz.ch/blog/2013/03/05/gesucht-ferienspass-kurse</loc>
     <priority>0.7</priority>
   </url>
@@ -174,6 +178,10 @@
   </url>
   <url>
     <loc>http://www.evk-faz.ch/blog/tags/kinderfasnacht</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.evk-faz.ch/blog/tags/adventsfenster</loc>
     <priority>0.7</priority>
   </url>
   <url>
