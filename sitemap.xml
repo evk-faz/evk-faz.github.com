@@ -45,6 +45,10 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>http://www.evk-faz.ch/blog/2013/11/05/newsletter-herbst-2013</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>http://www.evk-faz.ch/blog/2013/06/05/der-koenig-in-der-kiste</loc>
     <priority>0.7</priority>
   </url>
@@ -142,6 +146,10 @@
   </url>
   <url>
     <loc>http://www.evk-faz.ch/blog/tags/externe</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.evk-faz.ch/blog/tags/newsletter</loc>
     <priority>0.7</priority>
   </url>
   <url>
