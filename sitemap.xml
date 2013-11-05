@@ -57,6 +57,10 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>http://www.evk-faz.ch/blog/2013/11/05/raebeliechtliumzug-2013</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>http://www.evk-faz.ch/blog/2013/08/23/kleider-spielzeugboerse-09-13</loc>
     <priority>0.7</priority>
   </url>
@@ -153,6 +157,10 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>http://www.evk-faz.ch/blog/tags/raebelichtliumzug</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>http://www.evk-faz.ch/blog/tags/borse</loc>
     <priority>0.7</priority>
   </url>
@@ -214,6 +222,14 @@
   </url>
   <url>
     <loc>http://www.evk-faz.ch/blog/2013</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.evk-faz.ch/blog/2013/11</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.evk-faz.ch/blog/2013/11/05</loc>
     <priority>0.7</priority>
   </url>
   <url>
