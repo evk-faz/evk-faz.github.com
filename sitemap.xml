@@ -81,6 +81,10 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>http://www.evk-faz.ch/blog/2013/11/18/raebeliechtliumzug-2013</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>http://www.evk-faz.ch/blog/2013/08/23/nomination-daniela-marti-schulpflege</loc>
     <priority>0.7</priority>
   </url>
@@ -234,6 +238,10 @@
   </url>
   <url>
     <loc>http://www.evk-faz.ch/blog/2013/11</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.evk-faz.ch/blog/2013/11/18</loc>
     <priority>0.7</priority>
   </url>
   <url>
