@@ -129,6 +129,10 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>http://www.evk-faz.ch/blog/2013/11/29/adventsfenster-route-2013</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>http://www.evk-faz.ch/blog/2013/10/16/mobbing-referat</loc>
     <priority>0.7</priority>
   </url>
@@ -238,6 +242,10 @@
   </url>
   <url>
     <loc>http://www.evk-faz.ch/blog/2013/11</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.evk-faz.ch/blog/2013/11/29</loc>
     <priority>0.7</priority>
   </url>
   <url>
