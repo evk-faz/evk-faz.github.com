@@ -153,6 +153,10 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>http://www.evk-faz.ch/blog/2014/01/22/kleider-spielzeugboerse-03-14</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>http://www.evk-faz.ch/blog/tags/musikerlebnis</loc>
     <priority>0.7</priority>
   </url>
@@ -246,6 +250,18 @@
   </url>
   <url>
     <loc>http://www.evk-faz.ch/blog/tags/schule</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.evk-faz.ch/blog/2014</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.evk-faz.ch/blog/2014/01</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.evk-faz.ch/blog/2014/01/22</loc>
     <priority>0.7</priority>
   </url>
   <url>

@@ -5,10 +5,26 @@
   <id>http://evk-faz.ch/</id>
   <link href="http://evk-faz.ch/"/>
   <link href="http://evk-faz.ch/feed.xml" rel="self"/>
-  <updated>2013-12-13T14:52:00Z</updated>
+  <updated>2014-01-22T20:25:00Z</updated>
   <author>
     <name>Elternverein Küttigen-Rombach</name>
   </author>
+  <entry>
+    <title>Kleider Spielzeugbörse 03-14</title>
+    <link rel="alternate" href="/blog/2014/01/22/kleider-spielzeugboerse-03-14/"/>
+    <id>/blog/2014/01/22/kleider-spielzeugboerse-03-14/</id>
+    <published>2014-01-22T20:25:00Z</published>
+    <updated>2014-01-22T20:25:00Z</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;Die Kinderkleider und Spielzeugbörse findet am 22. März 2014 von 09:30 bis 12:00 in der Turnhalle Dorf in Küttigen statt.&lt;/p&gt;
+
+&lt;p&gt;Weitere Informationen im &lt;a href='/download/FlyerBoerse_03_2014.pdf'&gt;&amp;#8211;&amp;gt; Flyer &amp;lt;&amp;#8211;&lt;/a&gt;&lt;/p&gt;</summary>
+    <content type="html">&lt;p&gt;Die Kinderkleider und Spielzeugbörse findet am 22. März 2014 von 09:30 bis 12:00 in der Turnhalle Dorf in Küttigen statt.&lt;/p&gt;
+
+&lt;p&gt;Weitere Informationen im &lt;a href='/download/FlyerBoerse_03_2014.pdf'&gt;&amp;#8211;&amp;gt; Flyer &amp;lt;&amp;#8211;&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>Vortragsreihe mit Schule Küttigen</title>
     <link rel="alternate" href="/blog/2013/12/13/vortragsreihe-mit-schule-kuettigen/"/>
@@ -136,29 +152,5 @@
     <content type="html">&lt;p&gt;Der Herbst 2013 Vereins Newsletter ist online.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href='/download/newsletter/Newsletter_Herbst_2013.pdf'&gt;&amp;#8211;&amp;gt; Zum Download &amp;lt;&amp;#8211;&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>Raebeliechtliumzug 2013</title>
-    <link rel="alternate" href="/blog/2013/11/05/raebeliechtliumzug-2013/"/>
-    <id>/blog/2013/11/05/raebeliechtliumzug-2013/</id>
-    <published>2013-11-05T14:55:00Z</published>
-    <updated>2013-11-05T14:55:00Z</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;&lt;strong&gt;Räbeliechtli-Umzug der Kindergartenkinder und der Waldspielgruppe&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Wann: 15. November 2013 Start: 18:00 Uhr, neues Schulhaus Dorf Besammlung: 17:45 Uhr Klassentreffpunkte gemäss Info der Lehrpersonen&lt;/p&gt;
-
-&lt;p&gt;Route: Schulhaus – Schulhausweg - Vorstadtstrasse – Kirchbergstrasse – Bielweg – Nüberichstrasse – Restaurant Traube – Kreuzweg- Schulhaus (über Privatweg)&lt;/p&gt;</summary>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Räbeliechtli-Umzug der Kindergartenkinder und der Waldspielgruppe&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Wann: 15. November 2013 Start: 18:00 Uhr, neues Schulhaus Dorf Besammlung: 17:45 Uhr Klassentreffpunkte gemäss Info der Lehrpersonen&lt;/p&gt;
-
-&lt;p&gt;Route: Schulhaus – Schulhausweg - Vorstadtstrasse – Kirchbergstrasse – Bielweg – Nüberichstrasse – Restaurant Traube – Kreuzweg- Schulhaus (über Privatweg) (Strassenbeleuchtung wird während dem Umzug ausgeschaltet)&lt;/p&gt;
-
-&lt;p&gt;Ende: ca. 18:45 Uhr Schulhaus Dorf, Turnhalle&lt;/p&gt;
-
-&lt;p&gt;Weitere Infos im &lt;a href='/download/news/Raebelichtliumzug2013.pdf'&gt;Flyer&lt;/a&gt;.&lt;/p&gt;</content>
   </entry>
 </feed>
