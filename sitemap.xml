@@ -81,6 +81,10 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>http://www.evk-faz.ch/blog/2014/02/04/vortrag-social-media</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>http://www.evk-faz.ch/blog/2013/01/29/fruehlingskurse-elternbildung</loc>
     <priority>0.7</priority>
   </url>
@@ -122,6 +126,10 @@
   </url>
   <url>
     <loc>http://www.evk-faz.ch/blog/2013/03/25/fruehlingserwachen-im-gue-x</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.evk-faz.ch/blog/2014/02/04/biberstufe-pfadi-erlinsbach</loc>
     <priority>0.7</priority>
   </url>
   <url>
@@ -254,6 +262,14 @@
   </url>
   <url>
     <loc>http://www.evk-faz.ch/blog/2014</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.evk-faz.ch/blog/2014/02</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.evk-faz.ch/blog/2014/02/04</loc>
     <priority>0.7</priority>
   </url>
   <url>
