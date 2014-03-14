@@ -169,6 +169,10 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>http://www.evk-faz.ch/blog/2014/03/14/velosicherheitskurse-2014</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>http://www.evk-faz.ch/blog/2014/01/22/kleider-spielzeugboerse-03-14</loc>
     <priority>0.7</priority>
   </url>
@@ -229,6 +233,10 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>http://www.evk-faz.ch/blog/tags/ferienspass</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>http://www.evk-faz.ch/blog/tags/jugendfest</loc>
     <priority>0.7</priority>
   </url>
@@ -238,10 +246,6 @@
   </url>
   <url>
     <loc>http://www.evk-faz.ch/blog/tags/adventsfenster</loc>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>http://www.evk-faz.ch/blog/tags/ferienspass</loc>
     <priority>0.7</priority>
   </url>
   <url>
@@ -270,6 +274,14 @@
   </url>
   <url>
     <loc>http://www.evk-faz.ch/blog/2014</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.evk-faz.ch/blog/2014/03</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.evk-faz.ch/blog/2014/03/14</loc>
     <priority>0.7</priority>
   </url>
   <url>
