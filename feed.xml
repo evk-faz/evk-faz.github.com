@@ -5,10 +5,26 @@
   <id>http://evk-faz.ch/</id>
   <link href="http://evk-faz.ch/"/>
   <link href="http://evk-faz.ch/feed.xml" rel="self"/>
-  <updated>2014-03-14T09:27:00Z</updated>
+  <updated>2014-04-04T13:37:00Z</updated>
   <author>
     <name>Elternverein Küttigen-Rombach</name>
   </author>
+  <entry>
+    <title>FerienSpassKursLeiter 2014</title>
+    <link rel="alternate" href="/blog/2014/04/04/ferienspasskursleiter-2014/"/>
+    <id>/blog/2014/04/04/ferienspasskursleiter-2014/</id>
+    <published>2014-04-04T13:37:00Z</published>
+    <updated>2014-04-04T13:37:00Z</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;Herzlichen Dank&lt;/strong&gt; all den Eltern, Grosseltern, Gewerblern… einfach ALLEN, die sich sich angemeldet haben, um während der Sommerferien 2014 Kindern an einem oder mehreren Halb- oder Ganztagen mit Freude ihr Wissen über ein besonderes Hobby, Sport… vermitteln und ihnen ein einmaliges Erlebnis ermöglichen!&lt;/p&gt;</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Herzlichen Dank&lt;/strong&gt; all den Eltern, Grosseltern, Gewerblern… einfach ALLEN, die sich sich angemeldet haben, um während der Sommerferien 2014 Kindern an einem oder mehreren Halb- oder Ganztagen mit Freude ihr Wissen über ein besonderes Hobby, Sport… vermitteln und ihnen ein einmaliges Erlebnis ermöglichen!&lt;/p&gt;
+
+&lt;p&gt;Das bunte und vielfältige &lt;strong&gt;FerienSpassProgramm 2014 erscheint nach den Frühlingsferien&lt;/strong&gt; und wird an die Kinder verteilt. &lt;strong&gt;Weitere Infos&lt;/strong&gt; folgen in KW 17 auf dieser Seite.&lt;/p&gt;
+
+&lt;p&gt;Erste Informationen für den FerienSpass 2015 im &lt;a href='/download/Flyer-FerienSpass-Kuettigen-2014.pdf'&gt;Flyer&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>Velosicherheits-Kurse für Kinder</title>
     <link rel="alternate" href="/blog/2014/03/14/velosicherheitskurse-2014/"/>
@@ -80,17 +96,5 @@
     <content type="html">&lt;p&gt;Die Kinderkleider und Spielzeugbörse findet am 22. März 2014 von 09:30 bis 12:00 in der Turnhalle Dorf in Küttigen statt.&lt;/p&gt;
 
 &lt;p&gt;Weitere Informationen im &lt;a href='/download/FlyerBoerse_03_2014.pdf'&gt;&amp;#8211;&amp;gt; Flyer &amp;lt;&amp;#8211;&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>Vortragsreihe mit Schule Küttigen</title>
-    <link rel="alternate" href="/blog/2013/12/13/vortragsreihe-mit-schule-kuettigen/"/>
-    <id>/blog/2013/12/13/vortragsreihe-mit-schule-kuettigen/</id>
-    <published>2013-12-13T14:52:00Z</published>
-    <updated>2013-12-13T14:52:00Z</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;Der EVK hat neu eine Vortragsreihe mit der Schule Küttigen gestartet, das erste Referat war zum Thema ‘Mobbing in der Schule’ am 18.11.2013. Unter der Rubrik &lt;a href='angebot/#ElternInfos'&gt;Angebot - ElternInfos&lt;/a&gt; können Informationen zum Referat heruntergeladen werden.&lt;/p&gt;</summary>
-    <content type="html">&lt;p&gt;Der EVK hat neu eine Vortragsreihe mit der Schule Küttigen gestartet, das erste Referat war zum Thema ‘Mobbing in der Schule’ am 18.11.2013. Unter der Rubrik &lt;a href='angebot/#ElternInfos'&gt;Angebot - ElternInfos&lt;/a&gt; können Informationen zum Referat heruntergeladen werden.&lt;/p&gt;</content>
   </entry>
 </feed>
