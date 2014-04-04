@@ -97,10 +97,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://www.evk-faz.ch/blog/2014/02/26/ferienspasskursleiter-2014</loc>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>http://www.evk-faz.ch/blog/2013/05/04/jugendfest-2013-helfer</loc>
     <priority>0.7</priority>
   </url>
@@ -233,10 +229,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://www.evk-faz.ch/blog/tags/ferienspass</loc>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>http://www.evk-faz.ch/blog/tags/jugendfest</loc>
     <priority>0.7</priority>
   </url>
@@ -246,6 +238,10 @@
   </url>
   <url>
     <loc>http://www.evk-faz.ch/blog/tags/adventsfenster</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.evk-faz.ch/blog/tags/ferienspass</loc>
     <priority>0.7</priority>
   </url>
   <url>
