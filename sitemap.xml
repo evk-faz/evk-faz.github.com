@@ -105,6 +105,10 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>http://www.evk-faz.ch/blog/2014/04/04/ferienspasskursleiter-2014</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>http://www.evk-faz.ch/blog/2013/10/24/adventsfenster-2013</loc>
     <priority>0.7</priority>
   </url>
@@ -118,6 +122,10 @@
   </url>
   <url>
     <loc>http://www.evk-faz.ch/blog/2013/03/04/10-jahre-musikerlebnis-jubilaeum</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.evk-faz.ch/blog/2014/02/26/kinderfasnacht-2014</loc>
     <priority>0.7</priority>
   </url>
   <url>
@@ -158,6 +166,10 @@
   </url>
   <url>
     <loc>http://www.evk-faz.ch/blog/2013/05/01/schwimmkurse-kuettigen-2013</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.evk-faz.ch/blog/2014/03/14/velosicherheitskurse-2014</loc>
     <priority>0.7</priority>
   </url>
   <url>
@@ -229,11 +241,11 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://www.evk-faz.ch/blog/tags/adventsfenster</loc>
+    <loc>http://www.evk-faz.ch/blog/tags/ferienspass</loc>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://www.evk-faz.ch/blog/tags/ferienspass</loc>
+    <loc>http://www.evk-faz.ch/blog/tags/adventsfenster</loc>
     <priority>0.7</priority>
   </url>
   <url>
@@ -265,7 +277,27 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>http://www.evk-faz.ch/blog/2014/04</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.evk-faz.ch/blog/2014/04/04</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.evk-faz.ch/blog/2014/03</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.evk-faz.ch/blog/2014/03/14</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>http://www.evk-faz.ch/blog/2014/02</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.evk-faz.ch/blog/2014/02/26</loc>
     <priority>0.7</priority>
   </url>
   <url>
