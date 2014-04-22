@@ -65,6 +65,10 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>http://www.evk-faz.ch/blog/2014/04/22/schwimmkurse-2014</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>http://www.evk-faz.ch/blog/2013/11/05/raebeliechtliumzug-2013</loc>
     <priority>0.7</priority>
   </url>
@@ -158,6 +162,10 @@
   </url>
   <url>
     <loc>http://www.evk-faz.ch/blog/2013/10/16/mobbing-referat</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.evk-faz.ch/blog/2014/04/22/ferienspass-programm-2014</loc>
     <priority>0.7</priority>
   </url>
   <url>
@@ -278,6 +286,10 @@
   </url>
   <url>
     <loc>http://www.evk-faz.ch/blog/2014/04</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.evk-faz.ch/blog/2014/04/22</loc>
     <priority>0.7</priority>
   </url>
   <url>
