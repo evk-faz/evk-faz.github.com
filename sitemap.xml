@@ -49,6 +49,10 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>http://www.evk-faz.ch/blog/2014/06/04/ferienspass-programm-2014</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>http://www.evk-faz.ch/blog/2013/06/05/der-koenig-in-der-kiste</loc>
     <priority>0.7</priority>
   </url>
@@ -209,6 +213,10 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>http://www.evk-faz.ch/blog/tags/ferienspass</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>http://www.evk-faz.ch/blog/tags/arbeitsgruppen</loc>
     <priority>0.7</priority>
   </url>
@@ -261,10 +269,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://www.evk-faz.ch/blog/tags/ferienspass</loc>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>http://www.evk-faz.ch/blog/tags/adventsfenster</loc>
     <priority>0.7</priority>
   </url>
@@ -294,6 +298,14 @@
   </url>
   <url>
     <loc>http://www.evk-faz.ch/blog/2014</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.evk-faz.ch/blog/2014/06</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.evk-faz.ch/blog/2014/06/04</loc>
     <priority>0.7</priority>
   </url>
   <url>
