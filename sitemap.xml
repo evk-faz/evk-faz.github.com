@@ -193,6 +193,10 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>http://www.evk-faz.ch/blog/2014/06/23/schnaellscht-chuettiger-2014</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>http://www.evk-faz.ch/blog/2014/05/12/ferienspass-programm-2014</loc>
     <priority>0.7</priority>
   </url>
@@ -302,6 +306,10 @@
   </url>
   <url>
     <loc>http://www.evk-faz.ch/blog/2014/06</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.evk-faz.ch/blog/2014/06/23</loc>
     <priority>0.7</priority>
   </url>
   <url>
