@@ -185,6 +185,10 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>http://www.evk-faz.ch/blog/2014/06/25/naturama-familienexkursion</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>http://www.evk-faz.ch/blog/2014/03/14/velosicherheitskurse-2014</loc>
     <priority>0.7</priority>
   </url>
@@ -306,6 +310,10 @@
   </url>
   <url>
     <loc>http://www.evk-faz.ch/blog/2014/06</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.evk-faz.ch/blog/2014/06/25</loc>
     <priority>0.7</priority>
   </url>
   <url>
