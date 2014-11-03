@@ -5,10 +5,22 @@
   <id>http://evk-faz.ch/</id>
   <link href="http://evk-faz.ch/"/>
   <link href="http://evk-faz.ch/feed.xml" rel="self"/>
-  <updated>2014-09-10T17:41:00Z</updated>
+  <updated>2014-11-03T18:18:00Z</updated>
   <author>
     <name>Elternverein Küttigen-Rombach</name>
   </author>
+  <entry>
+    <title>Newsletter Herbst 2014</title>
+    <link rel="alternate" href="/blog/2014/11/03/newsletter-herbst-2014/"/>
+    <id>/blog/2014/11/03/newsletter-herbst-2014/</id>
+    <published>2014-11-03T18:18:00Z</published>
+    <updated>2014-11-03T18:18:00Z</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;Der &lt;strong&gt;&lt;em&gt;Newsletter Herbst 2014&lt;/em&gt;&lt;/strong&gt; ist da&amp;#8230; &lt;br /&gt;Unter &lt;a href='http://www.evk-faz.ch/verein/#Newsletter'&gt;http://www.evk-faz.ch/verein/#Newsletter&lt;/a&gt; gibt’s einen Blick zurück, einigen Blicken voraus und vielen interessanten Informationen rund ums Eltern-Sein in Küttigen-Rombach.&lt;/p&gt;</summary>
+    <content type="html">&lt;p&gt;Der &lt;strong&gt;&lt;em&gt;Newsletter Herbst 2014&lt;/em&gt;&lt;/strong&gt; ist da&amp;#8230; &lt;br /&gt;Unter &lt;a href='http://www.evk-faz.ch/verein/#Newsletter'&gt;http://www.evk-faz.ch/verein/#Newsletter&lt;/a&gt; gibt’s einen Blick zurück, einigen Blicken voraus und vielen interessanten Informationen rund ums Eltern-Sein in Küttigen-Rombach. &lt;br /&gt;Viel Vergnügen bei der Lektüre!&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>Strihenmandli</title>
     <link rel="alternate" href="/blog/2014/09/10/strihenmandli/"/>
@@ -104,25 +116,5 @@
 &lt;/ul&gt;
 
 &lt;p&gt;abrufbar.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>FerienSpass Programm 2014</title>
-    <link rel="alternate" href="/blog/2014/06/04/ferienspass-programm-2014/"/>
-    <id>/blog/2014/06/04/ferienspass-programm-2014/</id>
-    <published>2014-06-04T17:39:00Z</published>
-    <updated>2014-06-04T17:39:00Z</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;&lt;strong&gt;&lt;em&gt;Viel Spass beim FerienSpass 2014!&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href='/download/Angebot_FerienSpass_2014.pdf'&gt;Angebot FerienSpass 2014&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Herzlichen Dank all den Eltern, Grosseltern, Gewerblern… einfach ALLEN, die beim FerienSpass mit Freude ihr Wissen über ein besonderes Hobby, Sport… vermitteln und  den Kindern somit ein&lt;/p&gt;</summary>
-    <content type="html">&lt;p&gt;&lt;strong&gt;&lt;em&gt;Viel Spass beim FerienSpass 2014!&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href='/download/Angebot_FerienSpass_2014.pdf'&gt;Angebot FerienSpass 2014&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Herzlichen Dank all den Eltern, Grosseltern, Gewerblern… einfach ALLEN, die beim FerienSpass mit Freude ihr Wissen über ein besonderes Hobby, Sport… vermitteln und  den Kindern somit ein einmaliges Erlebnis in den Sommerferien 2014  ermöglichen!&lt;/p&gt;</content>
   </entry>
 </feed>

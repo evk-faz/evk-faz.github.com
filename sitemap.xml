@@ -117,6 +117,10 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>http://www.evk-faz.ch/blog/2014/11/03/newsletter-herbst-2014</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>http://www.evk-faz.ch/blog/2014/05/30/babysitting-kurs-2014</loc>
     <priority>0.7</priority>
   </url>
@@ -297,6 +301,10 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>http://www.evk-faz.ch/blog/tags/newsletter</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>http://www.evk-faz.ch/blog/tags/babysitting</loc>
     <priority>0.7</priority>
   </url>
@@ -317,11 +325,15 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://www.evk-faz.ch/blog/tags/newsletter</loc>
+    <loc>http://www.evk-faz.ch/blog/2014</loc>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://www.evk-faz.ch/blog/2014</loc>
+    <loc>http://www.evk-faz.ch/blog/2014/11</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.evk-faz.ch/blog/2014/11/03</loc>
     <priority>0.7</priority>
   </url>
   <url>
