@@ -217,6 +217,10 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>http://www.evk-faz.ch/blog/2014/11/27/raebeliechtliumzug-2014</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>http://www.evk-faz.ch/blog/2013/11/05/newsletter-herbst-2013</loc>
     <priority>0.7</priority>
   </url>
@@ -330,6 +334,10 @@
   </url>
   <url>
     <loc>http://www.evk-faz.ch/blog/2014/11</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.evk-faz.ch/blog/2014/11/27</loc>
     <priority>0.7</priority>
   </url>
   <url>
