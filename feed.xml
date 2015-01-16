@@ -5,10 +5,26 @@
   <id>http://evk-faz.ch/</id>
   <link href="http://evk-faz.ch/"/>
   <link href="http://evk-faz.ch/feed.xml" rel="self"/>
-  <updated>2014-11-27T08:19:00Z</updated>
+  <updated>2015-01-16T07:20:00Z</updated>
   <author>
     <name>Elternverein Küttigen-Rombach</name>
   </author>
+  <entry>
+    <title>Flyer Kinderfasnacht 2015 ist da!</title>
+    <link rel="alternate" href="/blog/2015/01/16/flyer-kinderfasnacht-2015/"/>
+    <id>/blog/2015/01/16/flyer-kinderfasnacht-2015/</id>
+    <published>2015-01-16T07:20:00Z</published>
+    <updated>2015-01-16T07:20:00Z</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;Der Flyer der Kinderfasnacht 2015 ist da!&lt;/p&gt;
+
+&lt;p&gt;&lt;a href='/download/news/Kinderfasnacht-Plakat-Flyer-2015.pdf'&gt;Download Flyer&lt;/a&gt;&lt;/p&gt;</summary>
+    <content type="html">&lt;p&gt;Der Flyer der Kinderfasnacht 2015 ist da!&lt;/p&gt;
+
+&lt;p&gt;&lt;a href='/download/news/Kinderfasnacht-Plakat-Flyer-2015.pdf'&gt;Download Flyer&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>Räbeliechtliumzug 2014</title>
     <link rel="alternate" href="/blog/2014/11/27/raebeliechtliumzug-2014/"/>
@@ -80,29 +96,5 @@
 &lt;p&gt;Bis bald, am 20. März Küttigen.&lt;/p&gt;
 
 &lt;p&gt;Sommerliche Grüsse&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>Naturama-Familienexkursion</title>
-    <link rel="alternate" href="/blog/2014/06/25/naturama-familienexkursion/"/>
-    <id>/blog/2014/06/25/naturama-familienexkursion/</id>
-    <published>2014-06-25T18:26:00Z</published>
-    <updated>2014-06-25T18:26:00Z</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;Gerne machen wir Euch auf folgende Naturama-Veranstaltung aufmerksam:&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;Familienexkursion &amp;#8220;Judihui! Schmetterlingsraupen fressen unseren Fenchel&amp;#8221;&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Datum: Samstag, 28. Juni 2014 &lt;br /&gt;Ort: Zeihen &lt;br /&gt;Zeit: 14.00-16.30 Uhr &lt;br /&gt;Kosten: CHF 12.- pro Erw., CHF 8.- pro Kind&lt;/p&gt;</summary>
-    <content type="html">&lt;p&gt;Gerne machen wir Euch auf folgende Naturama-Veranstaltung aufmerksam:&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;Familienexkursion &amp;#8220;Judihui! Schmetterlingsraupen fressen unseren Fenchel&amp;#8221;&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Datum: Samstag, 28. Juni 2014 &lt;br /&gt;Ort: Zeihen &lt;br /&gt;Zeit: 14.00-16.30 Uhr &lt;br /&gt;Kosten: CHF 12.- pro Erw., CHF 8.- pro Kind &lt;br /&gt;Anmeldung: &lt;a href='mailto:v.sasdi@naturama.ch'&gt;v.sasdi@naturama.ch&lt;/a&gt;; T: 062 832 72 50&lt;/p&gt;
-
-&lt;p&gt;Weitere Informationen unter&lt;/p&gt;
-
-&lt;p&gt;&lt;a href='http://www.naturama.ch/veranstaltungen/index.cfm?nav=familienex'&gt;http://www.naturama.ch/veranstaltungen/index.cfm?nav=familienex&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
 </feed>
