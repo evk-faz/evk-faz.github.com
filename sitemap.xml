@@ -129,6 +129,10 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>http://www.evk-faz.ch/blog/2015/02/23/ferienspass-2015-anmeldungen-kurse</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>http://www.evk-faz.ch/blog/2014/03/14/velosicherheitskurse-2014</loc>
     <priority>0.7</priority>
   </url>
@@ -334,6 +338,14 @@
   </url>
   <url>
     <loc>http://www.evk-faz.ch/blog/2015</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.evk-faz.ch/blog/2015/02</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.evk-faz.ch/blog/2015/02/23</loc>
     <priority>0.7</priority>
   </url>
   <url>
