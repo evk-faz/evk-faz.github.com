@@ -109,6 +109,10 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>http://www.evk-faz.ch/blog/2015/05/06/newsletter-fruehling-2015</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>http://www.evk-faz.ch/blog/2014/02/04/biberstufe-pfadi-erlinsbach</loc>
     <priority>0.7</priority>
   </url>
@@ -146,6 +150,10 @@
   </url>
   <url>
     <loc>http://www.evk-faz.ch/blog/2013/05/29/ferienspass-abholtag</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.evk-faz.ch/blog/2015/05/06/kinder-mit-adhs</loc>
     <priority>0.7</priority>
   </url>
   <url>
@@ -202,6 +210,10 @@
   </url>
   <url>
     <loc>http://www.evk-faz.ch/blog/2014/04/22/ferienspass-programm-2014</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.evk-faz.ch/blog/2015/05/06/helferinnen-jugendfest-2015</loc>
     <priority>0.7</priority>
   </url>
   <url>
@@ -325,11 +337,11 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://www.evk-faz.ch/blog/tags/referate</loc>
+    <loc>http://www.evk-faz.ch/blog/tags/newsletter</loc>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://www.evk-faz.ch/blog/tags/newsletter</loc>
+    <loc>http://www.evk-faz.ch/blog/tags/referate</loc>
     <priority>0.7</priority>
   </url>
   <url>
@@ -338,6 +350,10 @@
   </url>
   <url>
     <loc>http://www.evk-faz.ch/blog/tags/borse</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.evk-faz.ch/blog/tags/externe</loc>
     <priority>0.7</priority>
   </url>
   <url>
@@ -354,6 +370,14 @@
   </url>
   <url>
     <loc>http://www.evk-faz.ch/blog/2015</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.evk-faz.ch/blog/2015/05</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.evk-faz.ch/blog/2015/05/06</loc>
     <priority>0.7</priority>
   </url>
   <url>
