@@ -169,6 +169,10 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>http://www.evk-faz.ch/blog/2015/07/06/elternplausch-2015</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>http://www.evk-faz.ch/blog/2013/08/23/nomination-daniela-marti-schulpflege</loc>
     <priority>0.7</priority>
   </url>
@@ -374,6 +378,14 @@
   </url>
   <url>
     <loc>http://www.evk-faz.ch/blog/2015</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.evk-faz.ch/blog/2015/07</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.evk-faz.ch/blog/2015/07/06</loc>
     <priority>0.7</priority>
   </url>
   <url>
