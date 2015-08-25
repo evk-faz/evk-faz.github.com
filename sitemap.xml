@@ -181,6 +181,10 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>http://www.evk-faz.ch/blog/2015/08/25/boerse-2015-09</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>http://www.evk-faz.ch/blog/2013/02/04/boerse-03-2013</loc>
     <priority>0.7</priority>
   </url>
@@ -378,6 +382,14 @@
   </url>
   <url>
     <loc>http://www.evk-faz.ch/blog/2015</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.evk-faz.ch/blog/2015/08</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.evk-faz.ch/blog/2015/08/25</loc>
     <priority>0.7</priority>
   </url>
   <url>
