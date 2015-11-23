@@ -5,10 +5,22 @@
   <id>http://evk-faz.ch/</id>
   <link href="http://evk-faz.ch/"/>
   <link href="http://evk-faz.ch/feed.xml" rel="self"/>
-  <updated>2015-07-06T04:51:00Z</updated>
+  <updated>2015-08-25T16:40:00Z</updated>
   <author>
     <name>Elternverein Küttigen-Rombach</name>
   </author>
+  <entry>
+    <title>Börse 19.9.2015</title>
+    <link rel="alternate" href="/blog/2015/08/25/boerse-2015-09/"/>
+    <id>/blog/2015/08/25/boerse-2015-09/</id>
+    <published>2015-08-25T16:40:00Z</published>
+    <updated>2015-08-25T16:40:00Z</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;Am 19.9.2015 ist wieder Börse&lt;/strong&gt; &lt;br /&gt;Die nächste Kinderkleider- und Spielzeugbörse findet am 19.September 2015, 9:30 – 12:00 in der Turnhalle Dorf statt. Alle Infos findet Ihr im &lt;a href='/download/FlyerBoerse_09_2015.pdf'&gt;Flyer&lt;/a&gt;.&lt;/p&gt;</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Am 19.9.2015 ist wieder Börse&lt;/strong&gt; &lt;br /&gt;Die nächste Kinderkleider- und Spielzeugbörse findet am 19.September 2015, 9:30 – 12:00 in der Turnhalle Dorf statt. Alle Infos findet Ihr im &lt;a href='/download/FlyerBoerse_09_2015.pdf'&gt;Flyer&lt;/a&gt;.&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>Elternplausch 2015</title>
     <link rel="alternate" href="/blog/2015/07/06/elternplausch-2015/"/>
@@ -108,21 +120,5 @@
     </author>
     <summary type="html">&lt;p&gt;&lt;strong&gt;&lt;em&gt;Newsletter Frühling 2015 ist da&amp;#8230;&lt;/em&gt;&lt;/strong&gt; Der Frühlings-Newsletter mit allen Informationen zum Küttiger Familien-Sommer liegt unter &lt;a href='/verein/#Newsletter'&gt;www.evk-faz.ch/verein/#Newsletter&lt;/a&gt; bereit. Viel Spass bei der Lektüre!&lt;/p&gt;</summary>
     <content type="html">&lt;p&gt;&lt;strong&gt;&lt;em&gt;Newsletter Frühling 2015 ist da&amp;#8230;&lt;/em&gt;&lt;/strong&gt; Der Frühlings-Newsletter mit allen Informationen zum Küttiger Familien-Sommer liegt unter &lt;a href='/verein/#Newsletter'&gt;www.evk-faz.ch/verein/#Newsletter&lt;/a&gt; bereit. Viel Spass bei der Lektüre!&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>Schwimmkurs-Anmeldung geöffnet</title>
-    <link rel="alternate" href="/blog/2015/04/21/schwimmkurs-anmeldung-2015/"/>
-    <id>/blog/2015/04/21/schwimmkurs-anmeldung-2015/</id>
-    <published>2015-04-21T18:41:00Z</published>
-    <updated>2015-04-21T18:41:00Z</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;Schon bald ist es wieder soweit.&lt;/p&gt;
-
-&lt;p&gt;Der Schwimmkurs findet auch in diesem Jahr 2015 während den ersten beiden Sommerferienwochen statt. Die Vorbereitungen laufen auch Hochtouren. Die Anmeldeinformationen liegen vor unter &lt;a href='/angebot/#Schwimmkurs'&gt;Angebot Schwimmkurs&lt;/a&gt;&lt;/p&gt;</summary>
-    <content type="html">&lt;p&gt;Schon bald ist es wieder soweit.&lt;/p&gt;
-
-&lt;p&gt;Der Schwimmkurs findet auch in diesem Jahr 2015 während den ersten beiden Sommerferienwochen statt. Die Vorbereitungen laufen auch Hochtouren. Die Anmeldeinformationen liegen vor unter &lt;a href='/angebot/#Schwimmkurs'&gt;Angebot Schwimmkurs&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
 </feed>
