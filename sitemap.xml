@@ -65,6 +65,10 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>http://www.evk-faz.ch/blog/2015/11/24/adventsfenster-2015</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>http://www.evk-faz.ch/blog/2013/09/19/chinderkafi-apero</loc>
     <priority>0.7</priority>
   </url>
@@ -253,6 +257,10 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>http://www.evk-faz.ch/blog/2015/11/24/advent-im-naturama</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>http://www.evk-faz.ch/blog/2013/11/05/raebeliechtliumzug-2013</loc>
     <priority>0.7</priority>
   </url>
@@ -266,6 +274,10 @@
   </url>
   <url>
     <loc>http://www.evk-faz.ch/blog/2013/11/05/newsletter-herbst-2013</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.evk-faz.ch/blog/2015/11/24/bilder-raebeliechtli-umzug-2015</loc>
     <priority>0.7</priority>
   </url>
   <url>
@@ -298,6 +310,10 @@
   </url>
   <url>
     <loc>http://www.evk-faz.ch/blog/tags/verein</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.evk-faz.ch/blog/tags/adventsfenster</loc>
     <priority>0.7</priority>
   </url>
   <url>
@@ -341,10 +357,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://www.evk-faz.ch/blog/tags/adventsfenster</loc>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>http://www.evk-faz.ch/blog/tags/verkehrssicherheit</loc>
     <priority>0.7</priority>
   </url>
@@ -381,7 +393,19 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>http://www.evk-faz.ch/blog/tags/raebeliechtliumzug</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>http://www.evk-faz.ch/blog/2015</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.evk-faz.ch/blog/2015/11</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.evk-faz.ch/blog/2015/11/24</loc>
     <priority>0.7</priority>
   </url>
   <url>
