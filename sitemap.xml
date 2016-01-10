@@ -81,6 +81,10 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>http://www.evk-faz.ch/blog/2016/01/04/eltern-kind-cafe</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>http://www.evk-faz.ch/blog/2013/02/21/10-jahre-musikerlebnis</loc>
     <priority>0.7</priority>
   </url>
@@ -394,6 +398,18 @@
   </url>
   <url>
     <loc>http://www.evk-faz.ch/blog/tags/raebeliechtliumzug</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.evk-faz.ch/blog/2016</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.evk-faz.ch/blog/2016/01</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.evk-faz.ch/blog/2016/01/04</loc>
     <priority>0.7</priority>
   </url>
   <url>
