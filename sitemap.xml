@@ -45,6 +45,10 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>http://www.evk-faz.ch/blog/2016/02/08/kinderfasnacht-2016</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>http://www.evk-faz.ch/blog/2013/12/13/vortragsreihe-mit-schule-kuettigen</loc>
     <priority>0.7</priority>
   </url>
@@ -297,11 +301,11 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://www.evk-faz.ch/blog/tags/elterninfos</loc>
+    <loc>http://www.evk-faz.ch/blog/tags/angebot</loc>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://www.evk-faz.ch/blog/tags/angebot</loc>
+    <loc>http://www.evk-faz.ch/blog/tags/elterninfos</loc>
     <priority>0.7</priority>
   </url>
   <url>
@@ -402,6 +406,14 @@
   </url>
   <url>
     <loc>http://www.evk-faz.ch/blog/2016</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.evk-faz.ch/blog/2016/02</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.evk-faz.ch/blog/2016/02/08</loc>
     <priority>0.7</priority>
   </url>
   <url>

@@ -5,10 +5,26 @@
   <id>http://evk-faz.ch/</id>
   <link href="http://evk-faz.ch/"/>
   <link href="http://evk-faz.ch/feed.xml" rel="self"/>
-  <updated>2016-01-04T18:43:00Z</updated>
+  <updated>2016-02-08T10:57:00Z</updated>
   <author>
     <name>Elternverein Küttigen-Rombach</name>
   </author>
+  <entry>
+    <title>Flyer Kinderfasnacht 2016 ist da!</title>
+    <link rel="alternate" href="/blog/2016/02/08/kinderfasnacht-2016/"/>
+    <id>/blog/2016/02/08/kinderfasnacht-2016/</id>
+    <published>2016-02-08T10:57:00Z</published>
+    <updated>2016-02-08T10:57:00Z</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;Der Flyer der Kinderfasnacht 2016 ist da!&lt;/p&gt;
+
+&lt;p&gt;&lt;a href='/download/Kinderfasnacht-Flyer-2016.pdf'&gt;Download Flyer&lt;/a&gt;&lt;/p&gt;</summary>
+    <content type="html">&lt;p&gt;Der Flyer der Kinderfasnacht 2016 ist da!&lt;/p&gt;
+
+&lt;p&gt;&lt;a href='/download/Kinderfasnacht-Flyer-2016.pdf'&gt;Download Flyer&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>Eltern-Kind-Café</title>
     <link rel="alternate" href="/blog/2016/01/04/eltern-kind-cafe/"/>
@@ -90,23 +106,5 @@
     </author>
     <summary type="html">&lt;p&gt;&lt;strong&gt;Am 19.9.2015 ist wieder Börse&lt;/strong&gt; &lt;br /&gt;Die nächste Kinderkleider- und Spielzeugbörse findet am 19.September 2015, 9:30 – 12:00 in der Turnhalle Dorf statt. Alle Infos findet Ihr im &lt;a href='/download/FlyerBoerse_09_2015.pdf'&gt;Flyer&lt;/a&gt;.&lt;/p&gt;</summary>
     <content type="html">&lt;p&gt;&lt;strong&gt;Am 19.9.2015 ist wieder Börse&lt;/strong&gt; &lt;br /&gt;Die nächste Kinderkleider- und Spielzeugbörse findet am 19.September 2015, 9:30 – 12:00 in der Turnhalle Dorf statt. Alle Infos findet Ihr im &lt;a href='/download/FlyerBoerse_09_2015.pdf'&gt;Flyer&lt;/a&gt;.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>Elternplausch 2015</title>
-    <link rel="alternate" href="/blog/2015/07/06/elternplausch-2015/"/>
-    <id>/blog/2015/07/06/elternplausch-2015/</id>
-    <published>2015-07-06T04:51:00Z</published>
-    <updated>2015-07-06T04:51:00Z</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;&lt;strong&gt;&lt;em&gt;Elternplausch am 21.8: Auf den Spuren Paul Hallers in Küttigen und Pizza-Plausch im Bach-Hüsli&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Der diesjährige Elternplausch findet am 21. August statt. Dieses Jahr begleiten wir Verena Wernli auf einen spannenden Spaziergang durch Küttigen und besuchen Orte in den literarischen Werken von Paul Haller (1882-1920). Sie gibt uns einen eindrücklichen Einblick in das Leben und das Schaffen des bedeutenden Schweizer Mundarddichters und ehemaligen Pfarrers vom Kirchberg.&lt;/p&gt;</summary>
-    <content type="html">&lt;p&gt;&lt;strong&gt;&lt;em&gt;Elternplausch am 21.8: Auf den Spuren Paul Hallers in Küttigen und Pizza-Plausch im Bach-Hüsli&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Der diesjährige Elternplausch findet am 21. August statt. Dieses Jahr begleiten wir Verena Wernli auf einen spannenden Spaziergang durch Küttigen und besuchen Orte in den literarischen Werken von Paul Haller (1882-1920). Sie gibt uns einen eindrücklichen Einblick in das Leben und das Schaffen des bedeutenden Schweizer Mundarddichters und ehemaligen Pfarrers vom Kirchberg. Anschliessend an den Spaziergang sitzen wir bei Pizza und Wein gemütlich beim Bach-Hüsli zusammen und geniessen das Pizza-Buffet der Landfrauen. Dazu laden wir Euch ganz herzlich ein! Die Plätze sind beschränkt (ca. 35), meldet Euch also am besten gleich an.&lt;/p&gt;
-
-&lt;p&gt;Alle weiteren Informationen können dem &lt;a href='/download/news/Elternplausch-2015-Einladung.pdf'&gt;PDF&lt;/a&gt; entnommen werden.&lt;/p&gt;</content>
   </entry>
 </feed>
