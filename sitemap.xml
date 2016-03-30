@@ -1,26 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://www.evk-faz.ch/news</loc>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>http://www.evk-faz.ch/index.html</loc>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>http://www.evk-faz.ch/familienzentrum</loc>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>http://www.evk-faz.ch/danke</loc>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>http://www.evk-faz.ch/verein</loc>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>http://www.evk-faz.ch/404.html</loc>
     <priority>0.7</priority>
   </url>
@@ -29,15 +9,43 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://www.evk-faz.ch/google989d40e726ed4f99.html</loc>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>http://www.evk-faz.ch/bilder</loc>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://www.evk-faz.ch/blog/2013/03/19/kinderfasnacht-2013-die-bilder</loc>
+    <loc>http://www.evk-faz.ch/danke</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.evk-faz.ch/familienzentrum</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.evk-faz.ch/google989d40e726ed4f99.html</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.evk-faz.ch/index.html</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.evk-faz.ch/news</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.evk-faz.ch/verein</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.evk-faz.ch/blog/2013/01/09/10-jahre-musikerlebnis-kuettigen</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.evk-faz.ch/blog/2013/01/17/kinderfasnacht-2013-flyer</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.evk-faz.ch/blog/2013/01/17/veloboerse-und-kindersicherheitskurse</loc>
     <priority>0.7</priority>
   </url>
   <url>
@@ -45,51 +53,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://www.evk-faz.ch/blog/2016/02/08/kinderfasnacht-2016</loc>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>http://www.evk-faz.ch/blog/2013/12/13/vortragsreihe-mit-schule-kuettigen</loc>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>http://www.evk-faz.ch/blog/2014/08/05/kinderkleider-und-spielzeugboerse-2014-09</loc>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>http://www.evk-faz.ch/blog/2013/05/01/schwimmkurse-kuettigen-2013</loc>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>http://www.evk-faz.ch/blog/2014/06/25/naturama-familienexkursion</loc>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>http://www.evk-faz.ch/blog/2016/02/15/ferienspass-kursleiterinnen-2016</loc>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>http://www.evk-faz.ch/blog/2013/05/04/jugendfest-2013-helfer</loc>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>http://www.evk-faz.ch/blog/2015/11/24/adventsfenster-2015</loc>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>http://www.evk-faz.ch/blog/2013/09/19/chinderkafi-apero</loc>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>http://www.evk-faz.ch/blog/2013/03/25/fruehlingserwachen-im-gue-x</loc>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>http://www.evk-faz.ch/blog/2013/06/05/der-koenig-in-der-kiste</loc>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>http://www.evk-faz.ch/blog/2016/01/04/eltern-kind-cafe</loc>
+    <loc>http://www.evk-faz.ch/blog/2013/02/04/boerse-03-2013</loc>
     <priority>0.7</priority>
   </url>
   <url>
@@ -97,15 +61,59 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>http://www.evk-faz.ch/blog/2013/03/04/10-jahre-musikerlebnis-jubilaeum</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>http://www.evk-faz.ch/blog/2013/03/05/gesucht-ferienspass-kurse</loc>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://www.evk-faz.ch/blog/2013/10/24/babysitting-kurs-2013</loc>
+    <loc>http://www.evk-faz.ch/blog/2013/03/19/kinderfasnacht-2013-die-bilder</loc>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://www.evk-faz.ch/blog/2013/01/09/10-jahre-musikerlebnis-kuettigen</loc>
+    <loc>http://www.evk-faz.ch/blog/2013/03/25/fruehlingserwachen-im-gue-x</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.evk-faz.ch/blog/2013/04/12/family-days-raiffeisenbank-erlinsbach</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.evk-faz.ch/blog/2013/04/22/helfer-fuer-muelifest</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.evk-faz.ch/blog/2013/05/01/schwimmkurse-kuettigen-2013</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.evk-faz.ch/blog/2013/05/04/jugendfest-2013-helfer</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.evk-faz.ch/blog/2013/05/29/ferienspass-abholtag</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.evk-faz.ch/blog/2013/06/05/der-koenig-in-der-kiste</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.evk-faz.ch/blog/2013/07/22/blinkanlage-beim-fussgaengerstreifen</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.evk-faz.ch/blog/2013/08/23/kleider-spielzeugboerse-09-13</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.evk-faz.ch/blog/2013/08/23/nomination-daniela-marti-schulpflege</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.evk-faz.ch/blog/2013/09/19/chinderkafi-apero</loc>
     <priority>0.7</priority>
   </url>
   <url>
@@ -117,175 +125,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://www.evk-faz.ch/blog/2013/07/22/blinkanlage-beim-fussgaengerstreifen</loc>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>http://www.evk-faz.ch/blog/2013/03/04/10-jahre-musikerlebnis-jubilaeum</loc>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>http://www.evk-faz.ch/blog/2015/05/06/newsletter-fruehling-2015</loc>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>http://www.evk-faz.ch/blog/2014/02/04/biberstufe-pfadi-erlinsbach</loc>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>http://www.evk-faz.ch/blog/2015/03/02/grenzen-setzen</loc>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>http://www.evk-faz.ch/blog/2014/02/04/vortrag-social-media</loc>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>http://www.evk-faz.ch/blog/2014/11/03/newsletter-herbst-2014</loc>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>http://www.evk-faz.ch/blog/2014/05/30/babysitting-kurs-2014</loc>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>http://www.evk-faz.ch/blog/2013/08/23/kleider-spielzeugboerse-09-13</loc>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>http://www.evk-faz.ch/blog/2015/02/23/ferienspass-2015-anmeldungen-kurse</loc>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>http://www.evk-faz.ch/blog/2014/03/14/velosicherheitskurse-2014</loc>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>http://www.evk-faz.ch/blog/2014/06/23/schnaellscht-chuettiger-2014</loc>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>http://www.evk-faz.ch/blog/2013/05/29/ferienspass-abholtag</loc>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>http://www.evk-faz.ch/blog/2015/05/06/kinder-mit-adhs</loc>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>http://www.evk-faz.ch/blog/2015/06/03/familienexkursion-auen-olympiade</loc>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>http://www.evk-faz.ch/blog/2014/04/22/schwimmkurse-2014</loc>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>http://www.evk-faz.ch/blog/2013/11/29/adventsfenster-route-2013</loc>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>http://www.evk-faz.ch/blog/2015/07/06/elternplausch-2015</loc>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>http://www.evk-faz.ch/blog/2013/08/23/nomination-daniela-marti-schulpflege</loc>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>http://www.evk-faz.ch/blog/2014/01/22/kleider-spielzeugboerse-03-14</loc>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>http://www.evk-faz.ch/blog/2015/08/25/boerse-2015-09</loc>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>http://www.evk-faz.ch/blog/2013/02/04/boerse-03-2013</loc>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>http://www.evk-faz.ch/blog/2013/04/12/family-days-raiffeisenbank-erlinsbach</loc>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>http://www.evk-faz.ch/blog/2015/04/21/schwimmkurs-anmeldung-2015</loc>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>http://www.evk-faz.ch/blog/2014/06/04/ferienspass-programm-2014</loc>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>http://www.evk-faz.ch/blog/2013/01/17/veloboerse-und-kindersicherheitskurse</loc>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>http://www.evk-faz.ch/blog/2013/12/04/advent-im-kafi-dorf</loc>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>http://www.evk-faz.ch/blog/2013/04/22/helfer-fuer-muelifest</loc>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>http://www.evk-faz.ch/blog/2014/02/26/kinderfasnacht-2014</loc>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>http://www.evk-faz.ch/blog/2015/04/20/ferienspass-2015-anmeldung</loc>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>http://www.evk-faz.ch/blog/2014/04/22/ferienspass-programm-2014</loc>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>http://www.evk-faz.ch/blog/2015/05/06/helferinnen-jugendfest-2015</loc>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>http://www.evk-faz.ch/blog/2014/09/10/strihenmandli</loc>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>http://www.evk-faz.ch/blog/2014/05/12/ferienspass-programm-2014</loc>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>http://www.evk-faz.ch/blog/2015/01/16/flyer-kinderfasnacht-2015</loc>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>http://www.evk-faz.ch/blog/2014/04/04/ferienspasskursleiter-2014</loc>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>http://www.evk-faz.ch/blog/2013/11/18/raebeliechtliumzug-2013</loc>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>http://www.evk-faz.ch/blog/2013/01/17/kinderfasnacht-2013-flyer</loc>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>http://www.evk-faz.ch/blog/2015/11/24/advent-im-naturama</loc>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>http://www.evk-faz.ch/blog/2013/11/05/raebeliechtliumzug-2013</loc>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>http://www.evk-faz.ch/blog/2014/09/10/theater-spielclub</loc>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>http://www.evk-faz.ch/blog/2014/11/27/raebeliechtliumzug-2014</loc>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>http://www.evk-faz.ch/blog/2016/03/01/umgang-von-kindern-mit-geld</loc>
+    <loc>http://www.evk-faz.ch/blog/2013/10/24/babysitting-kurs-2013</loc>
     <priority>0.7</priority>
   </url>
   <url>
@@ -293,7 +133,175 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>http://www.evk-faz.ch/blog/2013/11/05/raebeliechtliumzug-2013</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.evk-faz.ch/blog/2013/11/18/raebeliechtliumzug-2013</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.evk-faz.ch/blog/2013/11/29/adventsfenster-route-2013</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.evk-faz.ch/blog/2013/12/04/advent-im-kafi-dorf</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.evk-faz.ch/blog/2013/12/13/vortragsreihe-mit-schule-kuettigen</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.evk-faz.ch/blog/2014/01/22/kleider-spielzeugboerse-03-14</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.evk-faz.ch/blog/2014/02/04/biberstufe-pfadi-erlinsbach</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.evk-faz.ch/blog/2014/02/04/vortrag-social-media</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.evk-faz.ch/blog/2014/02/26/kinderfasnacht-2014</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.evk-faz.ch/blog/2014/03/14/velosicherheitskurse-2014</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.evk-faz.ch/blog/2014/04/04/ferienspasskursleiter-2014</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.evk-faz.ch/blog/2014/04/22/ferienspass-programm-2014</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.evk-faz.ch/blog/2014/04/22/schwimmkurse-2014</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.evk-faz.ch/blog/2014/05/12/ferienspass-programm-2014</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.evk-faz.ch/blog/2014/05/30/babysitting-kurs-2014</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.evk-faz.ch/blog/2014/06/04/ferienspass-programm-2014</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.evk-faz.ch/blog/2014/06/23/schnaellscht-chuettiger-2014</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.evk-faz.ch/blog/2014/06/25/naturama-familienexkursion</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.evk-faz.ch/blog/2014/08/05/kinderkleider-und-spielzeugboerse-2014-09</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.evk-faz.ch/blog/2014/09/10/strihenmandli</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.evk-faz.ch/blog/2014/09/10/theater-spielclub</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.evk-faz.ch/blog/2014/11/03/newsletter-herbst-2014</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.evk-faz.ch/blog/2014/11/27/raebeliechtliumzug-2014</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.evk-faz.ch/blog/2015/01/16/flyer-kinderfasnacht-2015</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.evk-faz.ch/blog/2015/02/23/ferienspass-2015-anmeldungen-kurse</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.evk-faz.ch/blog/2015/03/02/grenzen-setzen</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.evk-faz.ch/blog/2015/04/20/ferienspass-2015-anmeldung</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.evk-faz.ch/blog/2015/04/21/schwimmkurs-anmeldung-2015</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.evk-faz.ch/blog/2015/05/06/helferinnen-jugendfest-2015</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.evk-faz.ch/blog/2015/05/06/kinder-mit-adhs</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.evk-faz.ch/blog/2015/05/06/newsletter-fruehling-2015</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.evk-faz.ch/blog/2015/06/03/familienexkursion-auen-olympiade</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.evk-faz.ch/blog/2015/07/06/elternplausch-2015</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.evk-faz.ch/blog/2015/08/25/boerse-2015-09</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.evk-faz.ch/blog/2015/11/24/advent-im-naturama</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.evk-faz.ch/blog/2015/11/24/adventsfenster-2015</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>http://www.evk-faz.ch/blog/2015/11/24/bilder-raebeliechtli-umzug-2015</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.evk-faz.ch/blog/2016/01/04/eltern-kind-cafe</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.evk-faz.ch/blog/2016/02/08/kinderfasnacht-2016</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.evk-faz.ch/blog/2016/03/01/umgang-von-kindern-mit-geld</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.evk-faz.ch/blog/tags/musikerlebnis</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.evk-faz.ch/blog/tags/arbeitsgruppen</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.evk-faz.ch/blog/tags/example</loc>
     <priority>0.7</priority>
   </url>
   <url>
@@ -313,11 +321,11 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://www.evk-faz.ch/blog/tags/elterninfos</loc>
+    <loc>http://www.evk-faz.ch/blog/tags/borse</loc>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://www.evk-faz.ch/blog/tags/borse</loc>
+    <loc>http://www.evk-faz.ch/blog/tags/angebot</loc>
     <priority>0.7</priority>
   </url>
   <url>
@@ -325,7 +333,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://www.evk-faz.ch/blog/tags/jugendfest</loc>
+    <loc>http://www.evk-faz.ch/blog/tags/angebote</loc>
     <priority>0.7</priority>
   </url>
   <url>
@@ -333,31 +341,19 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://www.evk-faz.ch/blog/tags/adventsfenster</loc>
+    <loc>http://www.evk-faz.ch/blog/tags/jugendfest</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.evk-faz.ch/blog/tags/verkehrssicherheit</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.evk-faz.ch/blog/tags/schulpflege</loc>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://www.evk-faz.ch/blog/tags/chinderkafi</loc>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>http://www.evk-faz.ch/blog/tags/musikerlebnis</loc>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>http://www.evk-faz.ch/blog/tags/arbeitsgruppen</loc>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>http://www.evk-faz.ch/blog/tags/angebote</loc>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>http://www.evk-faz.ch/blog/tags/babysitting</loc>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>http://www.evk-faz.ch/blog/tags/example</loc>
     <priority>0.7</priority>
   </url>
   <url>
@@ -373,15 +369,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://www.evk-faz.ch/blog/tags/verkehrssicherheit</loc>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>http://www.evk-faz.ch/blog/tags/newsletter</loc>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>http://www.evk-faz.ch/blog/tags/referate</loc>
+    <loc>http://www.evk-faz.ch/blog/tags/adventsfenster</loc>
     <priority>0.7</priority>
   </url>
   <url>
@@ -389,23 +377,31 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://www.evk-faz.ch/blog/tags/borse</loc>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>http://www.evk-faz.ch/blog/tags/externe</loc>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>http://www.evk-faz.ch/blog/tags/schulpflege</loc>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>http://www.evk-faz.ch/blog/tags/angebot</loc>
+    <loc>http://www.evk-faz.ch/blog/tags/newsletter</loc>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://www.evk-faz.ch/blog/tags/raebelichtliumzug</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.evk-faz.ch/blog/tags/elterninfos</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.evk-faz.ch/blog/tags/borse</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.evk-faz.ch/blog/tags/babysitting</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.evk-faz.ch/blog/tags/referate</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.evk-faz.ch/blog/tags/externe</loc>
     <priority>0.7</priority>
   </url>
   <url>
@@ -426,10 +422,6 @@
   </url>
   <url>
     <loc>http://www.evk-faz.ch/blog/2016/02</loc>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>http://www.evk-faz.ch/blog/2016/02/15</loc>
     <priority>0.7</priority>
   </url>
   <url>
