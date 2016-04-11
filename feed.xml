@@ -5,10 +5,26 @@
   <id>http://evk-faz.ch/</id>
   <link href="http://evk-faz.ch/"/>
   <link href="http://evk-faz.ch/feed.xml" rel="self"/>
-  <updated>2016-03-30T07:05:00Z</updated>
+  <updated>2016-04-11T17:43:00Z</updated>
   <author>
     <name>Elternverein Küttigen-Rombach</name>
   </author>
+  <entry>
+    <title>Schwimmkurs Anmeldung 2016</title>
+    <link rel="alternate" href="/blog/2016/04/11/schwimmkurs-anmeldung-2016/"/>
+    <id>/blog/2016/04/11/schwimmkurs-anmeldung-2016/</id>
+    <published>2016-04-11T17:43:00Z</published>
+    <updated>2016-04-11T17:43:00Z</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;Schon bald ist es wieder soweit.&lt;/p&gt;
+
+&lt;p&gt;Der Schwimmkurs findet auch in diesem Jahr 2016 während den ersten beiden Sommerferienwochen statt. Die Vorbereitungen laufen auch Hochtouren. Die Anmeldeinformationen liegen vor unter &lt;a href='/angebot/#Schwimmkurs'&gt;Angebot Schwimmkurs&lt;/a&gt;&lt;/p&gt;</summary>
+    <content type="html">&lt;p&gt;Schon bald ist es wieder soweit.&lt;/p&gt;
+
+&lt;p&gt;Der Schwimmkurs findet auch in diesem Jahr 2016 während den ersten beiden Sommerferienwochen statt. Die Vorbereitungen laufen auch Hochtouren. Die Anmeldeinformationen liegen vor unter &lt;a href='/angebot/#Schwimmkurs'&gt;Angebot Schwimmkurs&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>FerienSpass 2016</title>
     <link rel="alternate" href="/blog/2016/03/30/ferienspass-kursleiterinnen/"/>
@@ -88,21 +104,5 @@
     <content type="html">&lt;p&gt;&lt;a href='https://photos.google.com/share/AF1QipNdE78Q9ZM0nTgfmFQO2NgMJpA6rw-DPSfKz2Gt9HBM6AMvlBFc5GbaiOeqOnFqGw?key=SDFtS0UtUG5MWXBicTRWcW0yRXp5WXhZMjlXWDNB'&gt;Bilder Räbeliechtliumzug 2015&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Fotografin: Manuela Wittmann&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>Advent-im-naturama</title>
-    <link rel="alternate" href="/blog/2015/11/24/advent-im-naturama/"/>
-    <id>/blog/2015/11/24/advent-im-naturama/</id>
-    <published>2015-11-24T19:07:00Z</published>
-    <updated>2015-11-24T19:07:00Z</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;Das Naturama hat wiederum ein interessantes Adventsprogramm zusammengestellt und bietet damit eine willkommene Abwechslung und Ablenkung zum sonst hektischen Dezember.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href='http://www.naturama.ch/advent/adv_index.cfm'&gt;http://www.naturama.ch/advent/adv_index.cfm&lt;/a&gt;&lt;/p&gt;</summary>
-    <content type="html">&lt;p&gt;Das Naturama hat wiederum ein interessantes Adventsprogramm zusammengestellt und bietet damit eine willkommene Abwechslung und Ablenkung zum sonst hektischen Dezember.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href='http://www.naturama.ch/advent/adv_index.cfm'&gt;http://www.naturama.ch/advent/adv_index.cfm&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
 </feed>
