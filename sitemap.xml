@@ -301,6 +301,10 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>http://www.evk-faz.ch/blog/2016/04/25/anmeldung-ferienspass-2016</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>http://www.evk-faz.ch/blog/tags/musikerlebnis</loc>
     <priority>0.7</priority>
   </url>
@@ -422,6 +426,10 @@
   </url>
   <url>
     <loc>http://www.evk-faz.ch/blog/2016/04</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.evk-faz.ch/blog/2016/04/25</loc>
     <priority>0.7</priority>
   </url>
   <url>
