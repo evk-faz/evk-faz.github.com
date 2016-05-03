@@ -305,6 +305,10 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>http://www.evk-faz.ch/blog/2016/05/03/last-minute-ferienspass-2016</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>http://www.evk-faz.ch/blog/tags/musikerlebnis</loc>
     <priority>0.7</priority>
   </url>
@@ -422,6 +426,14 @@
   </url>
   <url>
     <loc>http://www.evk-faz.ch/blog/2016</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.evk-faz.ch/blog/2016/05</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.evk-faz.ch/blog/2016/05/03</loc>
     <priority>0.7</priority>
   </url>
   <url>
