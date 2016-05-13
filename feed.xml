@@ -5,10 +5,26 @@
   <id>http://evk-faz.ch/</id>
   <link href="http://evk-faz.ch/"/>
   <link href="http://evk-faz.ch/feed.xml" rel="self"/>
-  <updated>2016-05-03T11:06:00Z</updated>
+  <updated>2016-05-13T12:23:00Z</updated>
   <author>
     <name>Elternverein Küttigen-Rombach</name>
   </author>
+  <entry>
+    <title>Einladung zum Waldsamstag am 21. Mai</title>
+    <link rel="alternate" href="/blog/2016/05/13/einladung-zum-waldsamstag/"/>
+    <id>/blog/2016/05/13/einladung-zum-waldsamstag/</id>
+    <published>2016-05-13T12:23:00Z</published>
+    <updated>2016-05-13T12:23:00Z</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;Zusammen werden wir das Waldsofa und die verschiedenen Waldspielgruppen Spielplätzchen auf Vordermann bringen. Zur Stärkung geniessen wir zwischendurch das selbst mitgebrachte Picknick, es kann grilliert werden.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href='/download/Waldtag_2016.pdf'&gt;Flyer&lt;/a&gt;&lt;/p&gt;</summary>
+    <content type="html">&lt;p&gt;Zusammen werden wir das Waldsofa und die verschiedenen Waldspielgruppen Spielplätzchen auf Vordermann bringen. Zur Stärkung geniessen wir zwischendurch das selbst mitgebrachte Picknick, es kann grilliert werden.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href='/download/Waldtag_2016.pdf'&gt;Flyer&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>Last Minute FerienSpass 2016</title>
     <link rel="alternate" href="/blog/2016/05/03/last-minute-ferienspass-2016/"/>
@@ -80,21 +96,5 @@
     </author>
     <summary type="html">&lt;p&gt;Gerne laden wir Sie ein zu einem weiteren ElternInfoabend welcher der Elternverein zusammen mit der Schule Kütiigen organisiert. Am 21.März spricht Frau Andrea Fuchs von der Schuldenberatung Aargau-Solothurn zum Thema Umgang von Kindern mit Geld. Wir freuen uns auf einen informativen Abend. Alle Informationen und Anmeldung unter &lt;a href='/angebot/#ElternInfos'&gt;/angebot/#ElternInfos&lt;/a&gt;.&lt;/p&gt;</summary>
     <content type="html">&lt;p&gt;Gerne laden wir Sie ein zu einem weiteren ElternInfoabend welcher der Elternverein zusammen mit der Schule Kütiigen organisiert. Am 21.März spricht Frau Andrea Fuchs von der Schuldenberatung Aargau-Solothurn zum Thema Umgang von Kindern mit Geld. Wir freuen uns auf einen informativen Abend. Alle Informationen und Anmeldung unter &lt;a href='/angebot/#ElternInfos'&gt;/angebot/#ElternInfos&lt;/a&gt;.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>Flyer Kinderfasnacht 2016 ist da!</title>
-    <link rel="alternate" href="/blog/2016/02/08/kinderfasnacht-2016/"/>
-    <id>/blog/2016/02/08/kinderfasnacht-2016/</id>
-    <published>2016-02-08T10:57:00Z</published>
-    <updated>2016-02-08T10:57:00Z</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <summary type="html">&lt;p&gt;Der Flyer der Kinderfasnacht 2016 ist da!&lt;/p&gt;
-
-&lt;p&gt;&lt;a href='/download/Kinderfasnacht-Flyer-2016.pdf'&gt;Download Flyer&lt;/a&gt;&lt;/p&gt;</summary>
-    <content type="html">&lt;p&gt;Der Flyer der Kinderfasnacht 2016 ist da!&lt;/p&gt;
-
-&lt;p&gt;&lt;a href='/download/Kinderfasnacht-Flyer-2016.pdf'&gt;Download Flyer&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
 </feed>
